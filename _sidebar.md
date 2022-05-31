@@ -1,12 +1,16 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [ACENji HOME](./)
 
 * [Tutorials](./tutorials/index)
-  * [Cards](./tutorials/tomcat/index)
-  * [Forms](./tutorials/cloud/index)
-  * [Staff](./tutorials/java/index)
+  * [FAQ](./tutorials/faq/index)
+    * [Question1](./tutorials/faq/question-1/index)
+  * [SignUp](./tutorials/signup/index)
+  * [Cards](./tutorials/cards/index)
+  * [Forms](./tutorials/forms/index)
+  * [Elements](./tutorials/elements/index)
+  * [Staff](./tutorials/staff/index)
 
 * [About](./about/index)
 
