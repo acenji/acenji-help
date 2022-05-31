@@ -8,6 +8,7 @@
     * [Question1](./tutorials/faq/question-1/index)
   * [SignUp](./tutorials/signup/index)
   * [Cards](./tutorials/cards/index)
+    * [Price Table](./tutorials/cards/price-table/index)
   * [Forms](./tutorials/forms/index)
   * [Elements](./tutorials/elements/index)
   * [Staff](./tutorials/staff/index)
