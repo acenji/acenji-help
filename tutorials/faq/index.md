@@ -22,3 +22,8 @@ java HelloJava
 
 Now, you should see "Hello, World" printed out in the console!
 [Question1](./question-1/index.md)
+![image1](../images/cover.jpg)
+
+
+
+
