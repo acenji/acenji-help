@@ -3,7 +3,7 @@
 
 Learn about all these great no-code technologies powered by ACENji. 
 Have an idea and time to spare, dive in and lets roll!
-[FAQ](./faq/index.md)
-[Cards](./tomcat/index.md)
-[Forms](./cloud/index.md)
-[Staff](./java/index.md)
+[FAQ](../../tutorials/faq/index.md)
+[Cards](../../tutorials/cards/index.md)
+[Forms](../../tutorials/forms/index.md)
+[Staff](../../tutorials/staff/index.md)

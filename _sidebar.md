@@ -9,6 +9,7 @@
   * [SignUp](./tutorials/signup/index)
   * [Cards](./tutorials/cards/index)
     * [Info Element](./tutorials/cards/info/index)  
+	* [Text Element](./tutorials/cards/text-input/index) 
     * [Price Table](./tutorials/cards/price-table/index)
   * [Forms](./tutorials/forms/index)
   * [Elements](./tutorials/elements/index)
