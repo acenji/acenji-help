@@ -1,7 +1,14 @@
 # Price Table - What it is  and how to use it?
 
 
-<p>How the Price table works.The example is for the price range(the more complicated example), so the simplifying version will be a single price - just remove the price range. Forma start we will use several dropdowns, a quantity field, and a display price field.The final configurations look like this :</p>
+<p>How the Price table works? Before we asnwer that question, lets first examine what pain the price table element solves.
+Imagine you have an inventory of basic food ingredients and they have price based on volume brackets. 
+
+![image0](../../../images/cards/price-table/price-table-example.png)
+
+Would it be nice to have a calculator that behind the scene reads the actual prices and calculates on the fly exact amount. Imagine this being done on a cellphone and send as an quote or even money order. Even the most complecated prices can be accomudated within the price table no-code element by acenji. Then, in addition, you can combine it with other no-code elements and apply discounts, additional charges, and so on. The following is an example of such price table element and how to use it. 
+
+The example is for the price range(the more complicated example), so the simplifying version will be a single price - just remove the price range. Forma start we will use several dropdowns, a quantity field, and a display price field.The final configurations look like this :</p>
 
 
 ![image1](../../../images/cards/price-table/final.jpg)
