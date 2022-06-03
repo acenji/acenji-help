@@ -12,6 +12,7 @@
       * [Info Element](./tutorials/cards/elements/info/index)  
 	  * [Text Element](./tutorials/cards/elements/text-input/index) 
 	  * [Button Element](./tutorials/cards/elements/button/index)
+	  * [Image Element](./tutorials/cards/elements/image/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
