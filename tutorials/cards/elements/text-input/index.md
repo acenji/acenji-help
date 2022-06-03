@@ -7,7 +7,7 @@ Text Input elements can be used for both **Forms** and **Cards**. Users are very
 It comes with the following attributes
 
 
-- **Qestion Text** - Free style, multiline text. The text field is read only. The text indicaets to end user what informatuion they need to add an an input. 
+- **Qestion Text** - Free style, multiline text. The text field is read only. The text indicates to end user what information they need to add an an input. 
 - **Default Value** - By default this element comes as an optional. Information can be placed here at design time or at run time via calculated field function (see below). 
 - **Optional** - Indicate if this element is mandatory to be filled in at run time. By default this is not selected and therefore the element is mandatory. 
 - **Placeholder** - This is used as a hint to specify expected value in the input box. If clean, nothing will display.

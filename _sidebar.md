@@ -11,9 +11,9 @@
     * [Elements](./tutorials/cards/elements/index)
       * [Info Element](./tutorials/cards/elements/info/index)  
 	  * [Text Element](./tutorials/cards/elements/text-input/index) 
+	  * [Button Element](./tutorials/cards/elements/button/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
-  * [Forms](./tutorials/forms/index)
-  * [Elements](./tutorials/elements/index)
+  * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
 
 * [About](./about/index)
