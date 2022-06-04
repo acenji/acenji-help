@@ -16,6 +16,14 @@ It comes with the following attributes
 Images and videos are stored with full accesable static URL that is provided later in reports. 
 Video lengths are limited to 15 sec. 
 
+When app is opened, user is presented with two requests: one for access to teh camera and second to the microphone. 
+
+
+![image6](../../../../images/cards/elements/camera/cam.png)
+
+![image7](../../../../images/cards/elements/camera/camera7.jpg)
+
+
 ![image2](../../../../images/cards/elements/camera/camera2.jpg)
 
 ![image3](../../../../images/cards/elements/camera/camera3.jpg)
