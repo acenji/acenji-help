@@ -17,6 +17,7 @@
 	  * [Multiple Selection Group](./tutorials/cards/elements/multiple-selection-group/index)
 	  * [Numeric](./tutorials/cards/elements/numeric-input/index)
 	  * [Yes No Unknown](./tutorials/cards/elements/yes-no-unknown/index)
+	  * [Checkbox](./tutorials/cards/elements/checkbox/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
