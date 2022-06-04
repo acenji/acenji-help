@@ -21,6 +21,7 @@
 	  * [Phone Number](./tutorials/cards/elements/phonenumber/index)
 	  * [Date](./tutorials/cards/elements/date/index)
 	  * [Camera](./tutorials/cards/elements/camera/index)
+	  * [GPS](./tutorials/cards/elements/gps/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
