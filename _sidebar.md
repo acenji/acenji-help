@@ -19,6 +19,8 @@
 	  * [Yes No Unknown](./tutorials/cards/elements/yes-no-unknown/index)
 	  * [Checkbox](./tutorials/cards/elements/checkbox/index)
 	  * [Phone Number](./tutorials/cards/elements/phonenumber/index)
+	  * [Date](./tutorials/cards/elements/date/index)
+	  * [Camera](./tutorials/cards/elements/camera/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
