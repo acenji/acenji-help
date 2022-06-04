@@ -22,6 +22,7 @@
 	  * [Date](./tutorials/cards/elements/date/index)
 	  * [Camera](./tutorials/cards/elements/camera/index)
 	  * [GPS](./tutorials/cards/elements/gps/index)
+	  * [Signature](./tutorials/cards/elements/signature/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
