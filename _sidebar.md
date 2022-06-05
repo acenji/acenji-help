@@ -24,6 +24,7 @@
 	  * [GPS](./tutorials/cards/elements/gps/index)
 	  * [Signature](./tutorials/cards/elements/signature/index)
 	  * [Link](./tutorials/cards/elements/link/index)
+	  * [Card Link](./tutorials/cards/elements/card-link/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
