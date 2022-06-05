@@ -30,6 +30,7 @@
 	  * [Increment](./tutorials/cards/elements/increment/index)
 	  * [Email](./tutorials/cards/elements/email/index)
 	  * [Rich Editor](./tutorials/cards/elements/rich-editor/index)
+	  * [Dropdown](./tutorials/cards/elements/dropdown/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
   * [Staff](./tutorials/staff/index)
