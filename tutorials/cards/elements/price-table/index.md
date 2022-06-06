@@ -1,14 +1,14 @@
-# Price Table - What it is  and how to use it?
+# Price Table - What it is and how to use it?
 
 
-<p>How the Price table works? Before we asnwer that question, lets first examine what pain the price table element solves.
-Imagine you have an inventory of basic food ingredients and they have price based on volume brackets. 
+<p>How the Price table works? Before we answer that question, let's first examine what pain the price table element solves.
+Imagine you have an inventory of basic food ingredients and they have prices based on volume brackets.
 
 ![image0](../../../../images/cards/elements/price-table/price-table-example.png)
 
-Would it be nice to have a calculator that behind the scene reads the actual prices and calculates on the fly exact amount. Imagine this being done on a cellphone and send as an quote or even money order. Even the most complecated prices can be accomudated within the price table no-code element by acenji. Then, in addition, you can combine it with other no-code elements and apply discounts, additional charges, and so on. The following is an example of such price table element and how to use it. 
+Would it be nice to have a calculator that behind the scene reads the actual prices and calculates on the fly the exact amount? Imagine this being done on a cellphone and send as a quote or even a money order. Even the most complicated prices can be accommodated within the price table no-code element by acenji. Then, in addition, you can combine it with other no-code elements and apply discounts, additional charges, and so on. The following is an example of such a price table element and how to use it.
 
-The example is for the price range(the more complicated example), so the simplifying version will be a single price - just remove the price range. Forma start we will use several dropdowns, a quantity field, and a display price field.The final configurations look like this :</p>
+The example is for the price range(the more complicated example), so the simplifying version will be a single price - just remove the price range. Forma start we will use several dropdowns, a quantity field, and a display price field. The final configurations look like this:</p>
 
 
 ![image1](../../../../images/cards/elements/price-table/final.jpg)
@@ -18,7 +18,7 @@ The example is for the price range(the more complicated example), so the simplif
 <li>For a start, we added label info on top that is just the title</li>
 <li>Then added a drop-down called Select food category</li>
 
-<!--around the images need to have empty line , otherwise for some reason do not dsiplay them-->
+<!--around the images need to have an empty line, otherwise for some reason do not display them-->
 
 ![image2](../../../../images/cards/elements/price-table/food.jpg)
 
@@ -91,4 +91,5 @@ The example is for the price range(the more complicated example), so the simplif
 <li>Questions? <br>  <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">Reach us for questions</a>   Or   
 <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">post an issue here</a></li>
 </ol>
+
 
