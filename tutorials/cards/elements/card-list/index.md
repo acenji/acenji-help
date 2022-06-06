@@ -1,42 +1,29 @@
-# Dropdown Element
+# Card List Element
 
-Dropdown elements can be used for both **Forms** and **Cards**. For cards, they have richer attributes and more functionalities. In the simplest way, a dropdown gives the user to select some value from set of values.
+Card List elements can be used only in **Cards**. They are probably the most fundamental elements for cards and focus on carrying different functionalitires that can help user navigate bettwen apps and withoin the same app. We will demonstrate some use cases, wehre card lists consolidate and project information from other apps, or they trigger events or pass information to other elements. They can be edit, cloned or deleted at run time and are 100% dynamic. Their functionlaity is usually devided between events and functions.  
 
-![image1](../../../../images/cards/elements/dropdown/dropdown1.png)
+![image1](../../../../images/cards/elements/card-list/card-list1.png)
 
 It comes with the following attributes
 
 
 - **Qestion Text** - Free style, multiline text. The text field is read only. The text indicates to the end user what action will follow if they press the button..
 - **Optional** - Indicate if this element is mandatory to be filled in at run time. By default this is not selected and therefore the element is mandatory.
-- **Required** - Provides the ability to preload emails that later can be selected if wanted. 
-- **Cascade Child** - Provides the ability to implement infinate cascaded dropdown selections, where the parent selection define what the child selection is.
+- **Events** - Provides the ability to connect to same card or different card and define what action to expect from it. Ideally this works as a bridge between cards. By default the following events are built internally: Edit, Clone. The delete event needs to be defined here in advance.
+When the card list is presented in mobile, to get to the events, swipe to the left 
 
-![image2](../../../../images/cards/elements/dropdown/dropdown2.png)
+![image2](../../../../images/cards/elements/card-list/card-list2.jpg)
 
-- **Add value and label** - Provides the ability to preload the values for the dropdpown and their labels and images if available.
+![image3](../../../../images/cards/elements/card-list/card-list3.jpg)
+  
+- **Functions** - They could endless functions added via selection here. For a start, user need to add related cards in the card relationship box
 
-![image3](../../../../images/cards/elements/dropdown/dropdown3.png)
+![image4](../../../../images/cards/elements/card-list/card-list4.png)
 
-Click edit and that opens simple form that gives the user the ability to finalize the choice for value, label and an image(this is optional)
-![image4](../../../../images/cards/elements/dropdown/dropdown4.png)
+Then under **Actions** add the card that will have some relationship via card list. In our example, we will use previously defined small card called **Egg**.
+Since the idea is to bring information from the othjer card(in the example **Egg**) we can specify what elemnts and use calculation fields mechanism to define very complex woirkflow here if we have to. 
 
-![image5](../../../../images/cards/elements/dropdown/dropdown5.png)
-
-Lets dive into the cascaded dropdown option by filling the second dropdown. In the example, we will populate all three auto brands Honda, BMW, and Audi with some models 
-
-![image6](../../../../images/cards/elements/dropdown/dropdown6.png)
-
-The actual mobile app looks familiar to a normal cascaded drop down set
-
-![image7](../../../../images/cards/elements/dropdown/dropdown7.jpg)
-
-![image8](../../../../images/cards/elements/dropdown/dropdown8.jpg)
-
-![image9](../../../../images/cards/elements/dropdown/dropdown9.jpg)
-
-![image10](../../../../images/cards/elements/dropdown/dropdown10.jpg)
-
+![image6](../../../../images/cards/elements/card-list/card-list6.png)
 
 Questions? <br>  <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">Reach us for questions</a>   or <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">post an issue here</a> 
 
