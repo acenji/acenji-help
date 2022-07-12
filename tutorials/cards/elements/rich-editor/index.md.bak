@@ -1,6 +1,6 @@
 # Rich Editor Element
 
-Rich Editor elements can be used for both **Forms** and **Cards**. There is small difference when used in Forms vs Cards. In Cards, one card - one rich text editor, where in Forms, one Form, many rich text editors, but each one has to be on a separate page. The idea is to provide the user with the ability to use rich text editor that give them experience of a writing environment. 
+Ritch Editor elements can be used for both **Forms** and **Cards**. There is small difference when used in Forms vs Cards. In Cards, one card - one rich text editor, where in Forms, one Form, many rich text editors, but each one has to be on a separate page. The idea is to provide the user with the ability to use rich text editor that give them experience of a writing environment. 
 
 ![image1](../../../../images/cards/elements/rich-editor/rich-editor1.png)
 
