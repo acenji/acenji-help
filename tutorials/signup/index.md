@@ -7,7 +7,7 @@ For a start you can do it on mobile or Web broser by going on  <a href="https://
 There are two ways to start the sign up process
 
 1. Sign up directly by clicking on the **Cards** button 
-
+[![my first video](https://user-images.githubusercontent.com/109077380/187472025-47c132ea-fde4-4f47-8d70-8dad73656b1e.png)](https://www.youtube.com/embed/bxSWJEM9zIk)
 
 ![image0](../../images/signup/signup1.png)
 
