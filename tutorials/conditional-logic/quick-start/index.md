@@ -17,7 +17,7 @@ The conditions tab screen offers on the left a phone screen emulator as default 
 
 ![image3](../../../../images/tutorials/conditions/conditions-3.png)
 
-An additional button next to save and cancel button is provided called **Disable simulation**. The purpose of it is if for some reason the user may not want to see the conditions in action as it is too complicated to follow the build process at run time. 
+An additional button next to save and cancel button is provided called **Disable simulation** . The purpose of it is if for some reason the user may not want to see the conditions in action as it is too complicated to follow the build process at run time. 
 
 Also, by default no conditions are applied to the app. 
 
