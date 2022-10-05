@@ -1,11 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 
-* [ACENji HOME](./)
-
-* [Tutorials](./tutorials/index)
-  * [FAQ](./tutorials/faq/index)
-    * [Question1](./tutorials/faq/question-1/index)
+* [Start](./)
+* [FAQ](./faq/index)
+  * [Question1](./faq/question-1/index)
+* [Tutorials](./tutorials/index)    
   * [SignUp](./tutorials/signup/index)
   * [Cards](./tutorials/cards/index)
     * [Elements](./tutorials/cards/elements/index)
@@ -38,8 +37,12 @@
 	  * [Pinned Panel](./tutorials/cards/elements/pinned-panel/index)
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)  
+  * [Conditional Logic](./tutorials/conditional-logic/index)
+    * [Quick start](./tutorials/conditional-logic/quick-start/index)
   * [Staff](./tutorials/staff/index)
 
 * [About](./about/index)
-
 * [Contact](./contact/index)
+* [Partnerships](./partnerships/index)
+* [For Developers](./for-developers/index)
+* [Go Back to ACENji.com](./go-back-to-acenji.com/index)
