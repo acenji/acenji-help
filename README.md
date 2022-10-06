@@ -44,6 +44,8 @@
       * [Price Table](./tutorials/cards/elements/price-table/index)
   * [Forms](./tutorials/forms/index)
   * [Conditional Logic](./tutorials/conditional-logic/index)  
+    * [Quick start](./tutorials/conditional-logic/quick-start/index)
+	* [Selection Statements](./tutorials/conditional-logic/selection-statement/index)
   * [Staff](./tutorials/staff/index)
 * [About](./about/index)
 * [Contact](./contact/index)
