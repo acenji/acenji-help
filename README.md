@@ -1,54 +1,79 @@
-# ACENji - Create Apps, Web & API with No-Code!
-# No Coding Skills Needed
-# Enterprise-grade Apps
-# With one click on Google Play and Apple Store
+# ACENji Docs  
 
-<h1><p  style="font-size: x-large"><b>Build Solutions, not Software teams! <a href="https://acenji.com" target=_self>ACENji</a></b></p><h1>
+Welcome to the ACENji documentation website! Here, you will find comprehensive documentation, help files, and video tutorials to guide both beginners and professionals through the process of using our NoCode Super-App.
 
-<h2><p style="font-size: x-large"><b>Quick table of Contents</b></p></h2>
+<a href="https://acenji.com" target=_self>ACENji</a> is the ideal tool for easily creating endless apps and systems that provide the services and tools you need for your business. With ACENji, you can connect to over 30 databases and CRMs and make your own mobile, web, and API apps in just minutes, all without any coding required.
 
-* [Start](./)
+Our platform complements your existing set-up and brings all the desired features to your fingertips. The sky's the limit when using ACENji!   
+Read on to learn more about our powerful features and how they can help you achieve your goals.
+<h1><p  style="font-size: x-large"><b>Need support? Our team is here to help you.</b></p><h1> <p style="margin-top:-40px;">  </p> <a href="https://test2.scalecampaigntest.com/?page_id=1737" target="_blank"> <img src="./images/submit-your-ticket.png" width="180" height="100" alt="">
+</a>
+<p style="margin-top:30px;"></p>
+<img src="./images/support-pic.png" width="640" height="400" alt="" <p style="margin-left:180px;"></p>  </p>
+</a>
+<!DOCTYPE html>
+<html lang="en">
+<div class="topnav">
+<input type="text" placeholder="Search..">
+</div>
+</html>
+
+
+
+<h2><p style="font-size: x-large"><b>Table of Contents</b></p></h2>
+
+* [Getting Started](./getting-started/index)
+  * [Sign Up](./getting-started/signup/index)
+* [How To...](./how-to/index) 
+* [Video Tutorials](./video-tutorials/index)
+* [Cards](./cards/index)
+* [Forms](./forms/index)
+* [Elements](./elements/index)
+  * [Info](./elements/info/index)  
+  * [Text](./elements/text-input/index) 
+  * [Button](./elements/button/index)
+  * [Image](./elements/img/index)
+  * [Single Selection Group](./elements/single-selection-group/index)
+  * [Multiple Selection Group](./elements/multiple-selection-group/index)
+  * [Numeric](./elements/numeric-input/index)
+  * [Yes No Unknown](./elements/yes-no-unknown/index)
+  * [Checkbox](./elements/checkbox/index)
+  * [Phone Number](./elements/phonenumber/index)
+  * [Date](./elements/date/index)
+  * [Camera](./elements/camera/index)
+  * [GPS](./elements/gps/index)
+  * [Signature](./elements/signature/index)
+  * [Link](./elements/link/index)
+  * [Card Link](./elements/card-link/index)
+  * [Slider](./elements/slider/index)
+  * [Rating](./elements/rating/index)
+  * [Increment](./elements/increment/index)
+  * [Email](./elements/email/index)
+  * [Rich Editor](./elements/rich-editor/index)
+  * [Dropdown](./elements/dropdown/index)
+  * [Filter Grid](./elements/filter-grid/index)
+  * [Drill Down Grid](./elements/drill-down-grid/index)
+  * [Card List](./elements/card-list/index)
+  * [Modal Form](./elements/modal-form/index)
+  * [Pinned Panel](./elements/pinned-panel/index)
+  * [Price Table](./elements/price-table/index)
+* [Layouts](./layouts/index)
+* [Prebuilt Templates](./prebuilt-templates/index)
+  * [Prebuilt App Templates](./prebuilt-templates/app-templates/index)  
+  * [Prebuilt Website Templates](./prebuilt-templates/websites-templates/index) 
+* [Conditional Logic](./conditional-logic/index)
+  * [Quick start](./conditional-logic/quick-start/index)
+  * [Selection Statements](./conditional-logic/selection-statement/index)
+* [Onboard Staff](./onboard-staff/staff/index)
+* [Integrations](./integrations/index)
+* [Plugins](./plugins/index)
 * [FAQ](./faq/index)
   * [Question1](./faq/question-1/index)
-* [Tutorials](./tutorials/index)    
-  * [SignUp](./tutorials/signup/index)
-  * [Cards](./tutorials/cards/index)
-    * [Elements](./tutorials/cards/elements/index)
-      * [Info](./tutorials/cards/elements/info/index)  
-	  * [Text](./tutorials/cards/elements/text-input/index) 
-	  * [Button](./tutorials/cards/elements/button/index)
-	  * [Image](./tutorials/cards/elements/img/index)
-	  * [Single Selection Group](./tutorials/cards/elements/single-selection-group/index)
-	  * [Multiple Selection Group](./tutorials/cards/elements/multiple-selection-group/index)
-	  * [Numeric](./tutorials/cards/elements/numeric-input/index)
-	  * [Yes No Unknown](./tutorials/cards/elements/yes-no-unknown/index)
-	  * [Checkbox](./tutorials/cards/elements/checkbox/index)
-	  * [Phone Number](./tutorials/cards/elements/phonenumber/index)
-	  * [Date](./tutorials/cards/elements/date/index)
-	  * [Camera](./tutorials/cards/elements/camera/index)
-	  * [GPS](./tutorials/cards/elements/gps/index)
-	  * [Signature](./tutorials/cards/elements/signature/index)
-	  * [Link](./tutorials/cards/elements/link/index)
-	  * [Card Link](./tutorials/cards/elements/card-link/index)
-	  * [Slider](./tutorials/cards/elements/slider/index)
-	  * [Rating](./tutorials/cards/elements/rating/index)
-	  * [Increment](./tutorials/cards/elements/increment/index)
-	  * [Email](./tutorials/cards/elements/email/index)
-	  * [Rich Editor](./tutorials/cards/elements/rich-editor/index)
-	  * [Dropdown](./tutorials/cards/elements/dropdown/index)
-	  * [Filter Grid](./tutorials/cards/elements/filter-grid/index)
-	  * [Drill Down Grid](./tutorials/cards/elements/drill-down-grid/index)
-	  * [Card List](./tutorials/cards/elements/card-list/index)
-	  * [Modal Form](./tutorials/cards/elements/modal-form/index)
-	  * [Pinned Panel](./tutorials/cards/elements/pinned-panel/index)
-      * [Price Table](./tutorials/cards/elements/price-table/index)
-  * [Forms](./tutorials/forms/index)
-  * [Conditional Logic](./tutorials/conditional-logic/index)  
-    * [Quick start](./tutorials/conditional-logic/quick-start/index)
-	* [Selection Statements](./tutorials/conditional-logic/selection-statement/index)
-  * [Staff](./tutorials/staff/index)
+* [Compliance](./compliance/index)
+  * [GDPR & Privacy](./compliance/gdpr-privacy/index)
+* [Support](./support/index)
+* [For Developers](./for-developers/index)
+* [Partnerships](./partnerships/index)
 * [About](./about/index)
 * [Contact](./contact/index)
-* [Partnerships](./partnerships/index)
-* [For Developers](./for-developers/index)
 * [Go Back to ACENji.com](./go-back-to-acenji.com/index)
