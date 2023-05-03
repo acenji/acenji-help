@@ -6,11 +6,16 @@ Alternatively, you can submit an issue on this <a href="https://github.com/acenj
 
 <p style="margin-top:70px;"></p>
 
+
+
+
+
+
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
+<span class="triangle"></span> ACENji Sign Up - https://help.acenji.com/#/../../getting-started/signup/index     
+<span class="triangle"></span> Submit A Ticket - https://www.acenji.com/submit-a-ticket/    
+<span class="triangle"></span> Quick Start Conditional Logic - https://help.acenji.com/#/./conditional-logic/quick-start/index  
 
 
 <style>

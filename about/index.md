@@ -4,19 +4,25 @@ This tutorial site was created for the no-code platform <a href="https://ACENji.
 <p style="margin-top:70px;"></p>
 
 
-## Questions? 
+<p style="margin-top:70px;"></p>
+
+
+
+# Questions? 
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
 Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>
 
 
-<p style="margin-top:70px;"></p>
+
+
+
 
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
+<span class="triangle"></span> ACENji Sign Up - https://help.acenji.com/#/../../getting-started/signup/index     
+<span class="triangle"></span> ACENji Elements - https://help.acenji.com/#/./elements/index    
+<span class="triangle"></span> Quick Start Conditional Logic - https://help.acenji.com/#/./conditional-logic/quick-start/index  
 
 
 <style>

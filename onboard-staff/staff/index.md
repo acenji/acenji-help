@@ -7,21 +7,20 @@
 <p style="margin-top:50px;"></p>
 
 
-## Questions? 
+<p style="margin-top:50px;"></p>
+
+# Questions? 
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
-Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>
+Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>  
+<p style="margin-top:30px;"></p>
 
-
-<p style="margin-top:70px;"></p>
 
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
-
-
+<span class="triangle"></span> Learn about the Numeric Input Element - https://help.acenji.com/#/./elements/numeric-input/index       
+<span class="triangle"></span> Using the Modal Form Element - https://help.acenji.com/#/./elements/modal-form/index  
+<span class="triangle"></span> Learn about the Rich Editor Element - https://help.acenji.com/#/./elements/rich-editor/index
 <style>
 .triangle {
 display: inline-block;
@@ -36,7 +35,7 @@ margin-left: 10px;
 <p style="margin-top:30px;"></p>
 
 
-## Was this article helpful?
+# Was this article helpful?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScx8SlX1p5dET7hH3KBpvL9UOGmWfppVfch9vYxtdwT2Za1oQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 

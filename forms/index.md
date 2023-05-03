@@ -10,14 +10,20 @@ Cards are like little computer apps that can talk to each other and share inform
 
 
 
-<p style="margin-top:70px;"></p>
+<p style="margin-top:70px;"></p>  
+
+
+# Questions? 
+
+If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
+Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>  
+<p style="margin-top:30px;"></p>
+
 
 # Useful Links:
 
-<span class="triangle"></span> What are Cards? - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> How to use Forms - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Form Templates - https://theme-fusion.com/avada-demos/  
-
+<span class="triangle"></span> What is a Card Link - https://help.acenji.com/#/./elements/card-link/index    
+<span class="triangle"></span> What are Forms? - https://help.acenji.com/#/./forms/index  
 
 <style>
 .triangle {
@@ -33,6 +39,7 @@ margin-left: 10px;
 <p style="margin-top:30px;"></p>
 
 
-## Was this article helpful?
+
+# Was this article helpful?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-uv0MMhl8J5yzMFu98Euhas0lgxIGNoNnvAfw7rF9M_grDg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>

@@ -14,7 +14,7 @@ on either your mobile device or web browser.
 <p style="margin-top:30px;"></p>
 
 <div class="custom-box">
-<i class="icon"><img src="./images/info-icon.png" alt="icon" style="width: 40px; height: 23px;"></i><p>This video looks at adjusting margins and padding in the Avada Live Builder.</p>
+<i class="icon"><img src="./images/info-icon.png" alt="icon" style="width: 40px; height: 23px;"></i><p>If you have any questions, please don't hesitate to contact us.</p>
 
 <div class="content"> </div>
 
@@ -98,12 +98,18 @@ ACENji offers three different plans, each designed to cater to a different type 
  <img src="./images/signup/signup6.png" alt="" width="860" >   
 <p style="margin-top:70px;"></p>
 
+  
+# Questions? 
+
+If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
+Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>
+  
+
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
-
+<span class="triangle"></span> ACENji Sign Up - https://help.acenji.com/#/../../getting-started/signup/index     
+<span class="triangle"></span> ACENji Elements - https://help.acenji.com/#/./elements/index    
+<span class="triangle"></span> Quick Start Conditional Logic - https://help.acenji.com/#/./conditional-logic/quick-start/index 
 
 <style>
 .triangle {
@@ -119,7 +125,7 @@ margin-left: 10px;
 <p style="margin-top:30px;"></p>
 
 
-## Was this article helpful?
+# Was this article helpful?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdh85v8pzUJN7oEcyPxnGlOQdLPsvcXnrvLg7mXo32eNocXpg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

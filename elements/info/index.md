@@ -108,20 +108,22 @@ Let's add formatting. We will choose the "Currency symbol" option.
 We can also use the "Use Grouping" option and select the "Locale" to indicate the supported language region. By default, we support US English.  
   
 
-## Questions? 
+
+<p style="margin-top:70px;"></p>  
+
+
+# Questions? 
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
-Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>
+Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>  
+<p style="margin-top:30px;"></p>
 
-
-<p style="margin-top:70px;"></p>
 
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
-
+<span class="triangle"></span> What is Single Selection Button? - https://help.acenji.com/#/./elements/single-selection-group/index  
+<span class="triangle"></span> Using the GPS Element - https://help.acenji.com/#/./elements/gps/index  
+<span class="triangle"></span> Using the Rating Element - https://help.acenji.com/#/./elements/rating/index  
 
 <style>
 .triangle {
@@ -137,7 +139,8 @@ margin-left: 10px;
 <p style="margin-top:30px;"></p>
 
 
-## Was this article helpful?
+
+# Was this article helpful?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScNFeg9O6RL_MxiXu8ywllSDkFYeB8vOQkmqoyF1ipdg0o47w/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 

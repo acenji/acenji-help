@@ -6,17 +6,14 @@ Welcome to the ACENji documentation website! Here, you will find comprehensive d
 
 Our platform complements your existing set-up and brings all the desired features to your fingertips. The sky's the limit when using ACENji!   
 Read on to learn more about our powerful features and how they can help you achieve your goals.
-<h1><p  style="font-size: x-large"><b>Need support? Our team is here to help you.</b></p><h1> <p style="margin-top:-40px;">  </p> <a href="https://test2.scalecampaigntest.com/?page_id=1737" target="_blank"> <img src="./images/submit-your-ticket.png" width="180" height="100" alt="">
+<h1><p  style="font-size: x-large"><b>Need support? Our team is here to help you.</b></p><h1> <p style="margin-top:-40px;">  </p> <a href="https://www.acenji.com/submit-a-ticket/" target="_blank"> <img src="./images/submit-your-ticket.png" width="180" height="100" alt="">
 </a>
 <p style="margin-top:30px;"></p>
-<img src="./images/support-pic.png" width="640" height="400" alt="" <p style="margin-left:180px;"></p>  </p>
+<img src="./images/support-pic.png" width="640" height="400" alt="" <p style="margin-left:px;"></p>  </p>
 </a>
 <!DOCTYPE html>
 <html lang="en">
-<div class="topnav">
-<input type="text" placeholder="Search..">
-</div>
-</html>
+
 
 
 

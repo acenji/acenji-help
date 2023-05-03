@@ -44,21 +44,22 @@ When the app is opened, the user is presented with two requests: one for access 
   
 2. If available, take advantage of any preview or editing options to ensure the captured visual data is accurate and of high quality. This can help to reduce errors and improve your experience with the camera element.
 
+<p style="margin-top:50px;"></p>
 
-## Questions? 
+
+
+# Questions? 
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>   
-Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>
+Alternatively, you can submit an issue on this <a href="https://github.com/acenji/acenji-help/issues" target="_blank" rel="noopener">platform.</a>  
+<p style="margin-top:30px;"></p>
 
-
-<p style="margin-top:70px;"></p>
 
 # Useful Links:
 
-<span class="triangle"></span> Avada Theme Documentation - https://theme-fusion.com/documentation/avada/     
-<span class="triangle"></span> Avada Video Tutorials - https://theme-fusion.com/documentation/avada/video-tutorials/    
-<span class="triangle"></span> Avada Demos - https://theme-fusion.com/avada-demos/  
-
+<span class="triangle"></span> What is the Info Element? - https://help.acenji.com/#/./elements/info/index  
+<span class="triangle"></span> Using the Single Selection Group Element - https://help.acenji.com/#/./elements/single-selection-group/index  
+<span class="triangle"></span> Learn about the Multiple Selection Group Element - https://help.acenji.com/#/./elements/multiple-selection-group/index  
 
 <style>
 .triangle {
@@ -74,7 +75,7 @@ margin-left: 10px;
 <p style="margin-top:30px;"></p>
 
 
-## Was this article helpful?
+# Was this article helpful?
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdo5Sql1n7-SzPtKqFmgXZcO36eeje-BAOKq4lAzHKejJNZIA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
