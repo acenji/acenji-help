@@ -2,10 +2,13 @@
 
 <script>
 window.$docsify = {
+// load from _sidebar.md
 loadSidebar: true,
-subMaxLevel: 1
+// load from summary.md
+loadSidebar: 'summary.md',
 }
 </script>
+
 
 * <a href="http://localhost:3000/#/./"> <p style="margin-top:70px;"> <p style="margin-bottom:-50px;"> <h1><p><b>ACENji Docs <h1><p> </a> <p style="margin-bottom:-80px;">  </p>
 ***

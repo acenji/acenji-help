@@ -1,6 +1,6 @@
 # Info Element
 
-Information elements can be used in both Forms and Cards. They are one of the simplest building blocks available in ACENji. This type of element is often used to display informational text or labels on a web page. It's important to make sure that the text is easily readable and not too small or crowded. You may also want to consider using different font sizes, colors, or styles to highlight important information or make it stand out. You can also add options to customize the background color or border of the element to match the design of the page.
+Information elements can be used in both **Forms** and **Cards**. They are one of the simplest building blocks available in ACENji. This type of element is often used to display informational text or labels on a web page. It's important to make sure that the text is easily readable and not too small or crowded. You may also want to consider using different font sizes, colors, or styles to highlight important information or make it stand out. You can also add options to customize the background color or border of the element to match the design of the page.
    <p style="margin-top:50px;"></p>
 
 

@@ -1,12 +1,12 @@
-# Card Elements
+# Elements
 
-**What are Card Elements?**
+## **What are Card and Form Elements?**
 
-To start, let's first describe what forms are. Forms are like worksheets that we use on computers. They help us fill in information in a certain order and then do something with it. ACENji is a special computer program that also uses forms, but once we fill them in, we can't change what we wrote and the different worksheets can't talk to each other or share information.   
+To start, let's first describe what **forms** are. Forms are like worksheets that we use on computers. They help us fill in information in a certain order and then do something with it. ACENji is a special computer program that also uses forms, but once we fill them in, we can't change what we wrote and the different worksheets can't talk to each other or share information.   
 
 Forms have been around for a long time, either on the server-side/OS or on the client-side using Hypertext Markup Language (HTML) and then sending it to the server. In ACENji, we use forms to guide users through a descriptive flow that eventually leads to an action or multiple actions. Users cannot edit the results, and two forms cannot share data.
 
-On the other hand, cards are designed to be first-class citizens when it comes to communication and sharing information.   
+On the other hand, **cards** are designed to be first-class citizens when it comes to communication and sharing information.   
 ## The following are true about cards:
 
 - Cards are individual apps.  

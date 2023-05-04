@@ -1,7 +1,9 @@
 # Price Table - What it is and how to use it?
 
 
-A price table is a user interface element that displays a set of pricing options for a product or service. It typically includes a list of features or benefits associated with each option, along with the price and any other relevant information. How does the Price Table work? Before we answer that question, let's first examine the problem that the Price Table element solves.    
+A price table is a user interface element that displays a set of pricing options for a product or service. It typically includes a list of features or benefits associated with each option, along with the price and any other relevant information. Price table elements can **only** be used within **Cards**.   
+  
+How does the Price Table work? Before we answer that question, let's first examine the problem that the Price Table element solves.    
 
 Imagine you have an inventory of basic food ingredients, and they have prices based on volume brackets.
 <p style="margin-top:50px;"></p>
