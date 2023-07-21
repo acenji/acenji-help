@@ -49,6 +49,7 @@ loadSidebar: 'summary.md',
   * [Quick start](./conditional-logic/quick-start/index)
   * [Selection Statements](./conditional-logic/selection-statement/index)
 * [Onboard Staff](./onboard-staff/staff/index)
+* [FAQs](./FAQs/index)
 * [For Developers](./for-developers/index)
 * [Partnerships](./partnerships/index)
 * [About](./about/index)

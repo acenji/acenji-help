@@ -80,18 +80,18 @@ Please use the following link to access the sign-up form: https://www.acenji.com
 
 <p style="margin-top:30px;"></p>
 
-<img src="./images/signup/signup3.png" alt="" width="860" height="580">
+
 <p style="margin-top:50px;"></p>
 
-![image4](../../images/signup/signup4.png)
 
-![image5](../../images/signup/signup5.png)
+<img src="./images/signup/register.png" alt="" width="860" height="1280">
+
 
 <p style="margin-top:50px;"></p>
   
-<span style="font-size: 18pt; font-weight: bold;">Once the user has entered their basic company and address information, they can select the subscription plan that best fits their needs.</span> 
+<span style="font-size: 18pt; font-weight: bold;">Once you have entered your basic company and address information, you can select the subscription plan that best fits your needs.</span> 
 
-ACENji offers three different plans, each designed to cater to a different type of company. After the user has selected a plan, they will be redirected to complete the onboarding process within the ACENji admin page.
+ACENji offers three different plans, each designed to cater to a different type of company. After you have selected a plan, you will be redirected to complete the onboarding process within the ACENji admin page.
 
 <p style="margin-top:30px;"></p>
 
