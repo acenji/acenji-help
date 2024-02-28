@@ -18,7 +18,7 @@ Read on to learn more about our powerful features and how they can help you achi
 
 
 <h2><p style="font-size: x-large"><b>Table of Contents</b></p></h2>
-
+* [Introduction](./introduction/index)
 * [Getting Started](./getting-started/index)
   * [Sign Up](./getting-started/signup/index)
 * [How To...](./how-to/index) 

@@ -1,10 +1,22 @@
 
 # Getting Started with ACENji
 
-If you're new to ACENji, this collection of documents is the perfect starting point. You'll be guided through the most important initial steps such as installation, registration, and understanding how to make the most of the ACENji NoCode platform.  
+If you're new to ACENji, this collection of documents is the perfect starting point. You'll be guided through the most important initial steps such as installation, registration, and understanding how to make the most of the ACENji NoCode platform. If you need to understand how documents are structiured into sections, check into [Introduction](../introduction/index.md) 
+
+Is ACENji for me? Can I learn it, and /or even master it?
+For sure, ACENji was designed from the ground up to be as intuitive as possible, without any low code or programming needed. As long you ar everse with some basic computer skills, and you are persistent into your learning you should be able to master it. 
+
+Try to practice and learn at the same time and give some time to understand the most important concepts before you dive into building the apps. 
+
+We constantly improve this tutorial and the platform itselve so new and improved material will be always available to you to take on th enext exiting feature. 
+
+## Hardware Requirements 
+There are no specific requirements for working with ACENji.
+We try to support the following browesers: Mozilla, Chrome, Safari. We do not expect others to give you an issue. 
+As for the mobile devices, we try to support from the very old cellpjones/tablets to the very recently launched devices. 
+
+Still cirious? Let's dive deeper to understand what is ACENji.
   
-[Sign Up](../../getting-started/signup/index.md)  
-   
 <p style="margin-top:70px;"></p>
   
 
@@ -21,9 +33,11 @@ Alternatively, you can submit an issue on this <a href="https://github.com/acenj
     
 # Useful Links:
 
-<span class="triangle"></span> ACENji Sign Up - https://help.acenji.com/#/../../getting-started/signup/index     
-<span class="triangle"></span> ACENji Elements - https://help.acenji.com/#/./elements/index    
-<span class="triangle"></span> Quick Start Conditional Logic - https://help.acenji.com/#/./conditional-logic/quick-start/index  
+[ACENji Sign Up](../getting-started/signup/index.md)
+
+[ACENji Elements](../elements/index.md)
+     
+[Quick Start Conditional Logic](../conditional-logic/index.md)
 
 
 <style>

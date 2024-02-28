@@ -1,12 +1,14 @@
 # Sign Up for ACENji
 
-Signing up for ACENji is a straightforward process. Only one person from an entity needs to sign up initially, and then they can add additional users internally.   
-Each additional user will have their own onboarding process, which is separate from the initial signup.
+Registering for ACENji is simple and hassle-free. Initially, just one individual from an organization needs to enroll, after which they can incorporate more users from within. This streamlined process ensures that setting up your team is both efficient and straightforward.
 
-To get started, you can use <a href="https://acenji.com" target="_blank">ACENji's NoCode Platform </a> 
-on either your mobile device or web browser.    
-  
+Subsequent users will undergo their own distinct onboarding journey, independent of the first user's registration, allowing for a personalized introduction to our platform.
 
+Begin your ACENji experience using <a href="https://acenji.com" target="_blank">ACENji's NoCode Platform </a>, accessible via both mobile devices and web browsers. Our user-friendly interface ensures a smooth transition into the world of NoCode app development, regardless of your technical skill level.
+
+Should you encounter any queries or need assistance, we're here to help. Please feel free to
+<a href="https://www.acenji.com/contact" target="_blank" rel="noopener">reach out to us</a>.
+Our dedicated support team is always on hand to provide guidance, ensuring you make the most out of your ACENji experience.
     
 <p style="margin-top:40px;"></p>   
 <video src="./getting-started/signup/HowToSignupWithAcenjiNoCodePlatform.mp4" type="video/mp4" controls width="860" style="max-width:100%;">
