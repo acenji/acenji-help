@@ -11,16 +11,15 @@ Should you encounter any queries or need assistance, we're here to help. Please 
 Our dedicated support team is always on hand to provide guidance, ensuring you make the most out of your ACENji experience.
     
 <p style="margin-top:40px;"></p>   
-<video
-  src="./getting-started/signup/HowToSignupWithAcenjiNoCodePlatform.mp4"
-  type="video/mp4"
-  controls
-  width="860"
-  style="max-width:100%;"
-  preload="metadata"
-  poster="./getting-started/signup/video-thumbnail.jpg"
->
-</video>
+    <video
+        src="./images/signup/HowToSignupWithAcenjiNoCodePlatform.mp4"
+        type="video/mp4"
+        controls
+        width="860"
+        style="max-width:100%;"
+        preload="metadata"
+        poster="./images/signup/video-thumbnail.png">
+    </video>
 
 <p style="margin-top:30px;"></p>
 
