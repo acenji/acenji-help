@@ -1,21 +1,21 @@
 
 # Getting Started with ACENji
 
-If you're new to ACENji, this collection of documents is the perfect starting point. You'll be guided through the most important initial steps such as installation, registration, and understanding how to make the most of the ACENji NoCode platform. If you need to understand how documents are structiured into sections, check into [Introduction](../introduction/index.md) 
+If you're new to ACENji, this collection of documents is the perfect starting point. You'll be guided through the most important initial steps such as installation, registration, and understanding how to make the most of the ACENji NoCode platform. If you need to understand how documents are structured into sections, check into [Introduction](../introduction/index.md) 
 
 Is ACENji for me? Can I learn it, and /or even master it?
-For sure, ACENji was designed from the ground up to be as intuitive as possible, without any low code or programming needed. As long you ar everse with some basic computer skills, and you are persistent into your learning you should be able to master it. 
+For sure, ACENji was designed from the ground up to be as intuitive as possible, without any low code or programming needed. As long you are verse with some basic computer skills, and you are persistent into your learning you should be able to master it. 
 
 Try to practice and learn at the same time and give some time to understand the most important concepts before you dive into building the apps. 
 
-We constantly improve this tutorial and the platform itselve so new and improved material will be always available to you to take on th enext exiting feature. 
+We constantly improve this tutorial and the platform itself so new and improved material will be always available to you to take on the next exiting feature. 
 
 ## Hardware Requirements 
 There are no specific requirements for working with ACENji.
-We try to support the following browesers: Mozilla, Chrome, Safari. We do not expect others to give you an issue. 
-As for the mobile devices, we try to support from the very old cellpjones/tablets to the very recently launched devices. 
+We try to support the following browsers: Mozilla, Chrome, Safari. We do not expect others to give you an issue. 
+As for the mobile devices, we try to support from the very old cellphones/tablets to the very recently launched devices. 
 
-Still cirious? Let's dive deeper to understand what is ACENji.
+Still curious? Let's dive deeper to understand [what is ACENji?](../getting-started/what-is-acenji/index.md)
   
 <p style="margin-top:70px;"></p>
   
