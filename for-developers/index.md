@@ -3,9 +3,19 @@
 
 This documentation is powered by <a href="https://docsify.js.org/#/" >docsify</a>. To install it, follow these <a href="https://opensource.com/article/20/7/docsify-github-pages#comments">steps</a>:
 
-1. Go to the directory where you want to install docsify.  
+1. Go to the directory where you want to install docsify. 
 
-2. Run the following command only for the first time. If you run it again, it will overwrite the existing index HTML and delete all work indexes and links.  
+2. Install Docsify 
+   - Globally. It will be available from any directory
+    ```
+    npm install -g docsify-cli
+    ```
+    - Locally. It will be available only to the directory where you want to install it
+     ```
+    npm install docsify-cli
+    ```
+
+3. Run the following command only for the first time. If you run it again, it will overwrite the existing index HTML and delete all work indexes and links.  
 <p style="margin-top:30px;"></p>
 
 ```bash

@@ -1,10 +1,10 @@
 # Introduction
 
-ACENJI revolutionizes the way apps are built with its NoCode Super App Builder platform, empowering virtually anyone to create and immediately deploy mobile apps across iOS and Android platforms.
+ACENJI is a No-Code Super App Builder platform that empowers anyone—regardless of technical skill—to create and instantly deploy mobile apps, websites, and embedded experiences. With ACENJI, you can build native mobile apps, web apps, or API-driven solutions that run seamlessly across iOS, Android, WordPress, and any HTML or JavaScript site—all without writing a single line of code.
 
-Our comprehensive guide walks you through the creation process, from basic components to sophisticated enterprise-level applications, enriched with practical examples and sample apps.
+Our platform is not just for beginners—it scales with you. Whether you're a creator launching your first idea or an enterprise looking for the best no-code mobile app development platform, ACENJI has the flexibility, speed, and power to support your goals.
 
-Committed to fostering a vibrant community, we've made our documentation public. We welcome your contributions and suggestions for enhancements via our  <a href="https://github.com/acenji/acenji-help/" target="_blank" rel="noopener">GitHub repository</a>
+Explore our step-by-step documentation to go from simple apps to enterprise-grade no-code solutions. We’ve made it public to foster an open, growing developer community, and we welcome your contributions via <a href="https://github.com/acenji/acenji-help/" target="_blank" rel="noopener">GitHub repository</a>
 
 To dive deeper into <a href="https://www.acenji.com/our-goal/" target="_blank" rel="noopener">ACENJI's Goal</a>  and innovative concepts, explore our <a href="https://www.acenji.com/blog/" target="_blank" rel="noopener">blog articles</a>.
 <p style="margin-top:70px;"></p>
@@ -12,9 +12,9 @@ To dive deeper into <a href="https://www.acenji.com/our-goal/" target="_blank" r
 # Sections
 ACEnji's help documentaiton is divided into two parts:
 ## Learning manuals 
-In our help guide, you'll find in-depth articles, meticulously designed to provide you with extensive knowledge and detailed insights on executing tasks. Each section could include illustrative examples in both text,video formats,diagrams.
+In our Help Guide, you'll find in-depth articles thoughtfully crafted to equip you with comprehensive knowledge and step-by-step instructions for getting things done. Each section may include illustrative examples—presented through text, video tutorials, and diagrams—to support every learning style and make complex tasks easy to understand.
 ## Functional reference
-Go there if you need quick reference, and you are very familiar with the feature you are researching. The section provides coverage with only technical characteristics, without any examples. 
+Visit this section for a quick reference—ideal if you're already familiar with the feature you're exploring. It focuses solely on technical specifications and characteristics, without examples or extended explanations.
 
 Now, [let's get you started](../getting-started/index.md)
 
