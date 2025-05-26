@@ -1,16 +1,99 @@
-
-
 # Sign Up for ACENji
 
-Registering for ACENji is simple and hassle-free. Initially, just one individual from an organization needs to enroll, after which they can incorporate more users from within. This streamlined process ensures that setting up your team is both efficient and straightforward.
+Getting started with **ACENji** is completely free — no credit card required.  
+Whether you're exploring solo or planning for your whole team, you can begin without any upfront commitment.
 
-Subsequent users will undergo their own distinct onboarding journey, independent of the first user's registration, allowing for a personalized introduction to our platform.
+To register, all you need is a **valid email address**.  
+Only one person from your organization needs to create the initial account.  
+Additional users can be invited later, each with their own personalized onboarding experience.
 
-Begin your ACENji experience using <a href="https://acenji.com" target="_blank">ACENji's NoCode Platform </a>, accessible via both mobile devices and web browsers. Our user-friendly interface ensures a smooth transition into the world of NoCode app development, regardless of your technical skill level.
+---
 
-Should you encounter any queries or need assistance, we're here to help. Please feel free to
-<a href="https://www.acenji.com/contact" target="_blank" rel="noopener">reach out to us</a>.
-Our dedicated support team is always on hand to provide guidance, ensuring you make the most out of your ACENji experience.
+## How to Sign Up
+
+### 🖱️ Click “Start for Free”
+
+![Click the "Start for Free" button](../../../../images/signup/start-for-free-button.png)
+
+Go to <a href="https://acenji.com" target="_blank" rel="noopener">ACENji.com</a> and click the **“Start for Free”** button at the top right of the homepage.
+
+---
+
+### 📝 Fill In Your Details
+
+![Enter your name, email, and password](../../../../images/signup/fill-user-detail.png)
+
+Complete the sign-up form:
+
+- **First Name**
+- **Last Name**
+- **Valid Email Address**
+- **Create Password**
+- *(Optional)* Tick the box to receive news and updates from ACENji
+
+---
+
+### ✅ Complete Registration
+
+![Choose a plan and click Sign Up](../../../../images/signup/choose-plan-signup.png)
+
+Select any available plan to complete registration.  
+You **won’t be charged**, and **no credit card is required**.
+
+> 🔒 You’re always in control — upgrade later only if needed.
+
+### 📩 Check Your Email Prompt
+
+![Check and Verify your email](../../../../images/signup/check-and-verify-email.png)
+
+After submitting your registration, you’ll be redirected to the login screen.
+A message will appear:
+Please check and verify your email.
+The verification link will expire within 24 hours.
+
+### 📬 Find the Welcome Email
+
+![Find the Welcome email](../../../../images/signup/welcome-to-acenji.png)
+
+Look for an email from ACENji Admin with the subject:
+Welcome to ACENji! Please confirm.
+
+### 🔗 Open the Email & Activate
+
+![Open the email and activate](../../../../images/signup/email-content-activate.png)
+
+Open the email and click the activation link inside to verify your email address.
+
+### ✅ Email Verification Successful
+
+![Email Verification Successful](../../../../images/signup/email-verificaiton-successfull.png)
+
+You’ll be redirected back to the login screen with a message:
+Email verification successful
+Now you can log in with your email and password.
+
+---
+Next Step: ### 🏢 Add Your Organization (Optional)
+
+Once registered, you’ll have the option to create or join your organization directly from the dashboard.  
+This step is optional and can be done at any time.
+
+---
+
+## Need Help?
+
+Start your journey on  
+<a href="https://acenji.com" target="_blank">ACENji's NoCode Platform</a> — accessible via both web and mobile browsers.
+
+If you have questions or run into issues, <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">reach out to us</a>
+ — our support team is ready to assist.
+
+
+Start your journey at
+<a href="https://acenji.com" target="_blank">ACENji's NoCode Platform</a> — accessible on both web and mobile browsers. Our intuitive interface helps you ease into building apps without needing any prior technical experience.
+If you have any questions or need help at any point, our team is here for you.  
+Feel free to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">reach out to us</a> — we’re happy to assist.
+
 
 
     
