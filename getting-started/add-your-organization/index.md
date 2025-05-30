@@ -1,83 +1,34 @@
-# Sign Up for ACENji
+# Add Your Organization
 
-Getting started with **ACENji** is completely free — no credit card required.  
-Whether you're exploring solo or planning for your whole team, you can begin without any upfront commitment.
-
-To register, all you need is a **valid email address**.  
-Only one person from your organization needs to create the initial account.  
-Additional users can be invited later, each with their own personalized onboarding experience.
-
+Once you’ve successfully registered and logged in, it’s time to set up your organization profile.  
+From the top menu, navigate to:  
+Dashboards → Account → Admin 
+![Add Your Organization](../../../../images/add-your-organization/add-your-organization-1.png) 
+You’ll see four tabs:
+Staff Access  
+Profile ✅  
+Billing  
+Levels  
+This step focuses on the Profile section.  
 ---
 
-## How to Sign Up
+## 🖼️ Upload Organization Details
+Fill in the required information: 
+![Add Your Organization 2](../../../../images/add-your-organization/add-your-organization-2.png) 
+Company Logo – Upload a high-resolution logo.  
+First Name / Last Name  
+Phone / Email  
+Country / State / City / ZIP / Address  
 
-### 🖱️ Click “Start for Free”
+ 📜 Don’t forget to check the box to confirm you’ve read and agreed to the  
+ [Terms and Conditions](https://www.acenji.com/terms/)
+ 
+ 
+## ✅ Save Your Profile
+Click Submit to save your organization details.
+🔐 Your data is securely stored and used only for account and billing purposes.
 
-![Click the "Start for Free" button](../../../../images/signup/start-for-free-button.png)
-
-Go to <a href="https://acenji.com" target="_blank" rel="noopener">ACENji.com</a> and click the **“Start for Free”** button at the top right of the homepage.
-
----
-
-### 📝 Fill In Your Details
-
-![Enter your name, email, and password](../../../../images/signup/fill-user-detail.png)
-
-Complete the sign-up form:
-
-- **First Name**
-- **Last Name**
-- **Valid Email Address**
-- **Create Password**
-- *(Optional)* Tick the box to receive news and updates from ACENji
-
----
-
-### ✅ Complete Registration
-
-![Choose a plan and click Sign Up](../../../../images/signup/choose-plan-signup.png)
-
-Select any available plan to complete registration.  
-You **won’t be charged**, and **no credit card is required**.
-
-> 🔒 You’re always in control — upgrade later only if needed.
-
-### 📩 Check Your Email Prompt
-
-![Check and Verify your email](../../../../images/signup/check-and-verify-email.png)
-
-After submitting your registration, you’ll be redirected to the login screen.
-A message will appear:
-Please check and verify your email.
-The verification link will expire within 24 hours.
-
-### 📬 Find the Welcome Email
-
-![Find the Welcome email](../../../../images/signup/welcome-to-acenji.png)
-
-Look for an email from ACENji Admin with the subject:
-Welcome to ACENji! Please confirm.
-
-### 🔗 Open the Email & Activate
-
-![Open the email and activate](../../../../images/signup/email-content-activate.png)
-
-Open the email and click the activation link inside to verify your email address.
-
-### ✅ Email Verification Successful
-
-![Email Verification Successful](../../../../images/signup/email-verificaiton-successfull.png)
-
-You’ll be redirected back to the login screen with a message:
-Email verification successful
-Now you can log in with your email and password.
-
----
-
-Once registered, you’ll have the option to create or join your organization directly from the dashboard.  
-This step is optional and can be done at any time.
-
-Next Step: Now, [jump to add some details about your organization.](../getting-started/add-your-organization/index.md)
+Now, [jump to add some users](../getting-started/add-users/index.md)
 
 ---
 
@@ -172,7 +123,4 @@ margin-left: 10px;
     video.load(); // forces control/UI re-render
   });
 </script>
-
-
-
 
