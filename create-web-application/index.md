@@ -1,52 +1,52 @@
-# Create Web Application
+# 🌐 Create Web Applications
 
-Managing users in ACENji is simple and powerful. Whether you’re onboarding a few individuals or importing an entire team, the platform gives you full control over access and roles.  
+Building powerful, no-code web applications with ACENji starts with one key decision:
+🧭 What kind of application are you creating?
+Before you begin, consider the following questions:
+🧩 1. What is the nature of your application?
+New Application: Are you building a completely new app from scratch?
+Add-On: Are you adding new functionality to an existing website or web application?
+🔐 2. Who is the audience?
+Internal: Used only by staff, admins, or restricted groups.
+External: Used by customers, leads, or the public.
+Mixed: Has both internal and external users, often with different views and access levels.
 
-## 👤 User Types in ACENji
-ACENji supports eight user types, each with specific responsibilities and access levels: 
+## 🏠 Seamless on Your Domain
 
-**Staff User** – Basic internal user with limited access  
-**Admin User** – Full administrative control over the workspace  
-**Manager User** – Oversees teams, workflows, or departments  
-**Creator User** – Organization owner  
-**Platform Assign User** – Assigned at the platform-wide level  
-**Project (App) Assign User** – Assigned to specific apps or projects only  
-**Self-Registered User** – Users who register on their own via a public or shared link  
-**Guest User** – Temporary or view-only access for external collaborators  
+“ACENji applications run inside your own domain — not ours.”
+One of ACENji’s most powerful features is its native domain integration.
+Your end users will never leave your website — they interact with the application as if it were built by you, on your own infrastructure.
+Benefits:
+🪪 Brand Trust: Users stay on your URL — no redirects to acenji.com or any external domain.
+🕵️‍♂️ Invisible Embedding: The application is fully embedded, whether added to WordPress or any HTML/JavaScript site.
+🔐 Secure & Isolated: Sessions, roles, and variable-based logic are scoped to your domain.
+🧩 Custom Look & Feel: ACENji matches your existing branding — fonts, colors, headers — so there’s no visual disconnect.
 
-🧩 You can mix and match user types based on your organization’s needs.  
+## ⚙️ Integration Options
+ACENji makes it easy to blend into existing platforms or standalone environments:
+🧩 WordPress Integration
+Use our free plugin to embed ACENji into your existing WordPress website. Your users will never notice it’s a separate application.
+✂️ HTML/JS Integration
+Paste a small JavaScript snippet into your current HTML site or web app to launch ACENji inside your layout — no disruption, no redesign needed.
+🔗 ACENji apps are embedded directly into your domain — learn more in Seamless on Your Domain.
  
- 
-## ➕ How to Add Users?
-Navigate to:
-Dashboards → Account → Admin → Add Users
-You’ll find two options to manage user onboarding:
+## 🧰 Capabilities of ACENji Web Applications
+Every application you build in ACENji supports:
+✅ Multi-user support
+🔐 Role-based access control
+📊 Dynamic variable center for user-specific and context-aware data
+🔁 Workflow logic with triggers, conditions, and cycle-based execution
+🧱 Drag-and-drop UI builder using a row-based layout
+🎯 Event-driven design, allowing interaction-based logic and automation
+🖼️ Rich web layout options — build forms, landing pages, dashboards, and more
 
-### 1. Add Single User
-Use the manual form(+ button) to invite individual users. 
-![add manually a user](../../../../images/add-users/add-individual-user.png) 
-Fill in:  
-1.1 First Name / Last Name  
-1.2 Email  
-1.3 Select User Type  
-1.3 Assign to Group or App (optional)  
-1.4 Status (Active / Inactive)  
-1.5 Click Submit to send the invite.  
-
-### 2. Add Bulk Users
-For onboarding multiple users at once, use the bulk import feature.  
-![add bulk users](../../../../images/add-users/add-bulk-users.png) 
-Steps:  
-2.1 Download the Excel template as XLSX file   
-2.2 Fill in user data  
-2.3 Upload the Excel back into the system  
-2.4 Confirm and Submit  
-📥 Bulk import supports assigning user types and groups directly via the Excel.    
----
-📘 Want to define roles at the organizational level? [Learn more about Managing Roles and Groups](../getting-started/add-your-organization/index.md) to streamline access across your platform.  
-Even if you haven’t created any apps yet, you can still define global user permissions based on their role.
-
-
+## 📚 Next Steps
+In the following tutorials, we'll guide you through:
+Creating Your First Web App
+Setting Up Pages, Layout, and UI Tiles
+Defining Variables and User Roles
+Adding Workflows and Conditions
+Deploying or Embedding Your App 
 
 ## Need Help?
 Start your journey at
