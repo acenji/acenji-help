@@ -2,17 +2,26 @@
 
 Managing users in ACENji is simple and powerful. Whether you’re onboarding a few individuals or importing an entire team, the platform gives you full control over access and roles.  
 
-## 👤 User Types in ACENji
-ACENji supports eight user types, each with specific responsibilities and access levels: 
+## 👤 User Roles in ACENji
+ACENji supports the following user roles, each with specific responsibilities and access levels: 
 
-**Staff User** – Basic internal user with limited access  
-**Admin User** – Full administrative control over the workspace  
-**Manager User** – Oversees teams, workflows, or departments  
-**Creator User** – Organization owner  
-**Platform Assign User** – Assigned at the platform-wide level  
-**Project (App) Assign User** – Assigned to specific apps or projects only  
-**Self-Registered User** – Users who register on their own via a public or shared link  
-**Guest User** – Temporary or view-only access for external collaborators  
+**Platform Assign User** – Assigned by an admin, has access to the full ACENji platform and multiple projects.
+
+**Project Only User** – Assigned by an admin, access is limited to specific projects only (apps).
+
+**Self Registered User** – Registers independently (web or mobile), access is scoped to the project they registered for.
+
+**Guest User** - No registration required. No platform account; interacts with a project directly as a public participant.
+
+**Creator User** – The original account owner who creates the ACENji account. Has the highest level of privileges for managing the platform and apps under that account.
+
+**Admin User** – Full administrative control over the workspace. Elevated access; sees more options on builder and config pages. Can assign other users with their roles. 
+
+**Manager User** – Oversees teams, workflows, or departments. Project-level control role (planned). 
+
+**Staff User** – Basic internal user with limited access. Usually, general employee-level access.  
+       
+**Staff Deny** – Denied access: may still appear in lists but cannot access the platform.  
 
 🧩 You can mix and match user types based on your organization’s needs.  
  
