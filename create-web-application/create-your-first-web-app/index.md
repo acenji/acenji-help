@@ -1,36 +1,60 @@
-# Add Your Organization
+# 🚀 Creating Your First Web Application
 
-Once you’ve successfully registered and logged in, it’s time to set up your organization profile.  
-From the top menu, navigate to:  
-Dashboards → Account → Admin 
-![Add Your Organization](../../../../images/add-your-organization/add-your-organization-1.png) 
-You’ll see four tabs:
-Staff Access  
-Profile ✅  
-Billing  
-Levels  
-This step focuses on the Profile section.  
----
+Once logged in to ACENji, you'll be automatically redirected to:  
+Dashboards → Apps  
+From there, let’s walk through the steps to create your first web app.  
 
-## 🖼️ Upload Organization Details
-Fill in the required information: 
-![Add Your Organization 2](../../../../images/add-your-organization/add-your-organization-2.png) 
-Company Logo – Upload a high-resolution logo.  
-First Name / Last Name  
-Phone / Email  
-Country / State / City / ZIP / Address  
+## 🧱 Step 1: Start a New Web App
 
- 📜 Don’t forget to check the box to confirm you’ve read and agreed to the  
- [Terms and Conditions](https://www.acenji.com/terms/)
+You’ll see two options:  
+Create Web App  
+Create Mobile App  
+Click the "Create Web App" button.  
+This opens a blank web project canvas.  
+
+## ✍️ Step 2: Enter Basic Project Details
+
+In the web app creation screen, fill in the following:  
+📝 Project Name — Required  
+📅 Start Date & End Date — Optional (leave empty if not used)  
+📌 Status — Defaults to Ongoing  
+🔐 Permissions — Select who can access and contribute to the project  
+🖼️ Avatar Image — Upload an image to visually distinguish this project on your dashboard  
+🧾 Description — Add a short summary of what this app is for  
+💾 Note: Everything is autosaved as you type — no need to click Save.   
  
- 
-## ✅ Save Your Profile
-Click Submit to save your organization details.
-🔐 Your data is securely stored and used only for account and billing purposes.
+## 🪟 Step 3: Understand the Empty Canvas
 
-Now, [learn about user roles](../getting-started/user-roles/index.md)
+At this stage, your app has:
+No visible content yet
+A fully prepared structure behind the scenes
+Auto-saving enabled
+You are now ready to start building the actual layout.
 
----
+## ➕ Step 4: Add Your First Container and Element
+Click “Add Container”  
+Inside the container, click “Add Element”  
+Choose the “Info” element (or any UI block you like)  
+
+## ✏️ Step 5: Customize the Info Element
+
+Click on the newly added Info element in the container row.  
+Switch to the Text tab.  
+Replace ```Enter some information here```  
+with  
+```Hello world.```
+✅ This text is also autosaved — no need to click a save button.  
+
+🎉 You Did It!
+You’ve now created your first functioning ACENji web app with:    
+- A canvas row-based layout  
+- A visual UI element with custom text  
+Next steps might include:  
+- Adding rows and responsive layout  
+- Connecting data variables  
+- Defining workflows and conditions  
+- Setting user roles and view logic  
+- Deploying and accessing the Web Application
 
 ## Need Help?
 Start your journey at

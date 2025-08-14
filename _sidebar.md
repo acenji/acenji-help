@@ -17,6 +17,7 @@ loadSidebar: 'summary.md',
   * [What is ACENji](./getting-started/what-is-acenji/index)
   * [Sign Up](./getting-started/signup/index)
   * [Add Your Organization](./getting-started/add-your-organization/index)
+  * [User Roles](./getting-started/user-roles/index)
   * [Add Users](./getting-started/add-users/index)
   * [Manage Permission Levels](./getting-started/managing-permission-levels/index)
 * [Create Web Application](./create-web-application/index)
