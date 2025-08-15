@@ -52,9 +52,8 @@ Steps:
 2.4 Confirm and Submit  
 📥 Bulk import supports assigning user types and groups directly via the Excel.    
 ---
-📘 Want to define roles at the organizational level? [Learn more about Managing Roles and Groups](../getting-started/add-your-organization/index.md) to streamline access across your platform.  
+📘 Want to define internal permission levels within the organization? [Learn first how to apply permission levels](../getting-started/managing-permission-levels/index.md) to streamline access across your platform.  
 Even if you haven’t created any apps yet, you can still define global user permissions based on their role.
-
 
 
 ## Need Help?
