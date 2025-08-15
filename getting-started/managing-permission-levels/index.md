@@ -47,7 +47,7 @@ ACENji allows you to define up to **12 static Levels**, which can represent anyt
 
 > 🔧 These levels are fully customizable and do not follow a fixed pattern. You define what each level means.
 
-### ➕ How to Create Levels
+## ➕ How to Create Levels
 
 To define Levels in your workspace:
 
@@ -59,7 +59,7 @@ To define Levels in your workspace:
 
 📌 You can create up to 12 levels in total. The order you create them in defines their **hierarchical position** (Level 1 to Level 12).
 
-### 👥 Associate Staff with Levels
+## 👥 Associate Staff with Levels
 
 Once your Levels are defined, you can associate individual users or staff members with their respective levels:
 
