@@ -1,6 +1,3 @@
-* <a href="http://localhost:3000/#/./"> <p style="margin-top:70px;"> <p style="margin-bottom:-50px;"> <h1><p><b>ACENji Docs <h1><p> </a> <p style="margin-bottom:-80px;">  </p>
-
-
 * [Introduction](./introduction/index)
 
 * [Getting Started](./getting-started/index)
