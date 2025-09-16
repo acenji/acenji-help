@@ -12,7 +12,7 @@ This panel is your central workspace for configuring and customizing your projec
 - Shows **currently selected element** type (Text Label, Text Area, Button, Image, etc.).  
 - **Floating and draggable**, so it can be placed anywhere on the screen.  
 
- ![Floating Design Panel - Element Mode](../../images/web-site-builder/floating-design-panel/element-floating-panel.png)
+ ![Floating Design Panel - Element Mode](../../../images/create-web-application/website-builder/floating-design-panel/element-floating-panel.png)
 *Figure 1: Floating Design Panel in Element Mode*
 
 
@@ -24,7 +24,8 @@ This panel is your central workspace for configuring and customizing your projec
 - Users can **select a tile instance** from the panel to work on.  
 - This mode allows editing the **page structure or tile instance** instead of individual elements.  
 
-![Floating Design Panel - Page/Tile Mode](../../images/web-site-builder/floating-design-panel/page-floating-panel.png)
+![Floating Design Panel - Page/Tile Mode](../../../images/create-web-application/website-builder/floating-design-panel/page-floating-panel.png)
+
 *Figure 2: Floating Design Panel in Page/Tile/Instance Mode*
 
 
