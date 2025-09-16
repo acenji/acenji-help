@@ -11,19 +11,25 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      name: 'ACENji Docs',
-      repo: '',
-      loadSidebar: true,
-      relativePath: true,
-      subMaxLevel: 3,
-      sidebarDisplayLevel: 0 // optional
+  window.$docsify = {
+    name: 'ACENji Docs',
+    repo: '',
+    homepage: 'README.md',       // make the root explicit
+    loadSidebar: true,
+    subMaxLevel: 3,
+    sidebarDisplayLevel: 0,
+    routerMode: 'hash',          // avoids server 404s when clicking links
+    relativePath: false,          // makes links in _sidebar.md resolve relative to current dir
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',  // reuse the root sidebar for all routes
+      '/.*/_navbar.md': '/_navbar.md'
     }
-  </script>
+  }
+</script>
+
 
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css">
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 

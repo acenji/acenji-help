@@ -1,5 +1,4 @@
 * [Introduction](./introduction/index)
-
 * [Getting Started](./getting-started/index)
   * [What is ACENji](./getting-started/what-is-acenji/index)
   * [Sign Up](./getting-started/signup/index)
