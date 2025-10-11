@@ -20,6 +20,7 @@
           * [Open URL](./create-web-application/website-builder/floating-design-panel/element-section/events-tab/open-url/index)
           * [Change Style](./create-web-application/website-builder/floating-design-panel/element-section/events-tab/change-style/index)
           * [Calculate](./create-web-application/website-builder/floating-design-panel/element-section/events-tab/calculate/index)
+          * [Clone Tile](./create-web-application/website-builder/floating-design-panel/element-section/events-tab/clone-tile/index)
           * [Delete Button](./create-web-application/website-builder/floating-design-panel/element-section/events-tab/delete-button/index)
         * [Connect Tab](./create-web-application/website-builder/floating-design-panel/element-section/connect-tab/index)
         * [Color Tab](./create-web-application/website-builder/floating-design-panel/element-section/color-tab/index)
