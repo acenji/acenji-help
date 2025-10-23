@@ -8,6 +8,26 @@ This lets your users access your ACENji app **inside your own domain**, as if it
 
 ---
 
+## 🪄 Step 0 — Set Display Mode and Download the Plugin
+
+Before integrating ACENji with WordPress, you’ll first enable the correct display mode from within your ACENji dashboard.
+
+1. Go to your **ACENji project’s App Details** screen.  
+2. Find the **Display Mode** dropdown.  
+3. From the list, select **“WordPress (with Authentication)”**.
+
+Once selected, two new options appear:
+
+- A **Download WordPress Plugin** button (to get the latest version of the plugin)
+- A **link to the tutorial** (“Integrating with WordPress”) for reference
+
+![Display Mode selection in ACENji](../../../../images/create-web-application/integrating-your-app/wordpress/display-mode.png)
+![WordPress plugin download option](../../../../images/create-web-application/integrating-your-app/wordpress/display-mode-selected-wordpress.png)
+
+Click **Download WordPress Plugin** — this will download a ZIP file (e.g. `acenji_wp_plugin.zip`) that you’ll install in your WordPress dashboard in the next step.
+
+---
+
 ## 🪛 Step 1 — Download and Install the ACENji Plugin
 
 You can get the ACENji WordPress plugin in two ways:
@@ -42,29 +62,30 @@ Each project you create inside ACENji has a unique ID.
 You’ll find it in the project URL inside your ACENji dashboard.
 
 **Example:**
-""https://www.acenji.com/admin/dashboard/visitors/618/web-card-builder""
+https://www.acenji.com/admin/dashboard/visitors/643/web-card-builder
 
-In this example, the number **618** is your project’s ID.
+In this example, the number **643** is your project’s ID.
 
-- Copy this number
-- In WordPress, go to **Settings → Membership Settings**
-- Paste your ACENji Project ID into the field provided
+- Copy this number  
+- In WordPress, go to **Settings → Membership Settings**  
+- Paste your ACENji Project ID into the field provided  
 - Click **Save**
 
 > 🔐 ACENji uses strong authentication and authorization.  
 > Exposing the ID is safe and does **not** affect security.
 
-![Click the "Start for Free" button](../../../../images/create-web-application/integrating-your-app/wordpress/wp-settings.png)
+![WordPress settings screen](../../../../images/create-web-application/integrating-your-app/wordpress/wp-settings.png)
+
 ---
 
 ## 🧭 Step 4 — Add ACENji to Your Site Menu
 
 The simplest way to give your users access to your new ACENji-powered app is to add it to your WordPress navigation menu:
 
-1. Go to **Appearance → Menus**
-2. In the **Available Links** list, you will now see your ACENji site listed
-3. Select the ACENji link and **Add it to your menu**
-4. Save the menu
+1. Go to **Appearance → Menus**  
+2. In the **Available Links** list, you will now see your ACENji site listed  
+3. Select the ACENji link and **Add it to your menu**  
+4. Save the menu  
 
 Now your site has a direct link to your ACENji app.
 
@@ -72,11 +93,11 @@ Now your site has a direct link to your ACENji app.
 
 ## 🚀 Step 5 — Test the Experience
 
-- Visit your WordPress site as a regular user
+- Visit your WordPress site as a regular user  
 - Click the ACENji menu link you added  
 - A **login screen will appear seamlessly inside your WordPress page**
 
-![Click the "Start for Free" button](../../../../images/create-web-application/integrating-your-app/wordpress/pass-screen.png)
+![Login screen inside WordPress](../../../../images/create-web-application/integrating-your-app/wordpress/pass-screen.png)
 
 Once logged in, users are taken straight into your ACENji application — all within your own site’s layout and domain.
 
@@ -86,5 +107,3 @@ Once logged in, users are taken straight into your ACENji application — all wi
 
 ✅ That’s it!  
 Your ACENji web application is now live inside your WordPress site.
-
-
