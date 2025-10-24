@@ -10,7 +10,8 @@
 * [Create Web Application](./create-web-application/index)
   * [Integrating Your App](./create-web-application/integrating-your-app/index)
     * [WordPress Integration](./create-web-application/integrating-your-app/wordpress/index)
-    * [HTML/JavaScript Integration](./create-web-application/integrating-your-app/html-javascript/index)
+    * [HTML Integration](create-web-application/integrating-your-app/html-javascript/index.md)
+      
   * [Website Builder](./create-web-application/website-builder/index)
     * [Floating Design Panel](./create-web-application/website-builder/floating-design-panel/index)
       * [Element Section](./create-web-application/website-builder/floating-design-panel/element-section/index)
