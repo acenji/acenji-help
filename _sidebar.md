@@ -42,8 +42,12 @@
     * [Page Section](./create-web-application/website-builder/page-section/index)
       * [Page Layout](./create-web-application/website-builder/page-section/page-layout/index)
       * [Managing Pages](./create-web-application/website-builder/page-section/managing-pages/index)
+    
     * [Workflows & Variables](./create-web-application/website-builder/workflows-and-variables/index)
+    
     * [Roles & Permissions](./create-web-application/website-builder/roles-and-permissions/index)
+
+    * [Publish Section](./create-web-application/website-builder/publish-section/index)
     
   * [Tutorials](./create-web-application/tutorials/index)
     * [Creating Your First Web App](./create-web-application/tutorials/creating-your-first-web-app/index)
