@@ -37,6 +37,9 @@ Every site is built from flexible **tiles** (reusable components), interactive *
 - **Flexible Publishing Options**  
   Publish sites as standalone projects, embed them on **existing domains**, or integrate with platforms like **WordPress**.  
 
+- **Live Deployment & Version Rollback**  
+  Deploy changes instantly with zero downtime. Every publish creates a version snapshot, allowing you to roll back to any previous version of your website at any time—safely and without affecting data, users, or workflows.
+
 ---
 
 ## 🧭 Example Use Cases
