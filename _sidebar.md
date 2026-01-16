@@ -81,6 +81,7 @@
     * [Dropdown](./create-web-application/elements/dropdown/index)
     * [Card List](./create-web-application/elements/card-list/index)
     * [Modal Form](./create-web-application/elements/modal-form/index)
+    * [Report Download](./create-web-application/elements/report-download/index)
 
 * [Create Native Mobile App](./create-native-mobile-app/index)
   * [Mini Apps](./create-native-mobile-app/mini-apps/index)
@@ -107,6 +108,7 @@
     * [Modal Form](./create-native-mobile-app/elements/modal-form/index)
     * [Pinned Panel](./create-native-mobile-app/elements/pinned-panel/index)
     * [Price Table](./create-native-mobile-app/elements/price-table/index)
+    * [Report Download](./create-native-mobile-app/elements/report-download/index)
 
 * [Shared Concepts](./shared-concepts/index)
   * [Conditional Logic](./shared-concepts/conditional-logic/index)
