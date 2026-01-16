@@ -27,6 +27,7 @@
         * [Color Tab](./create-web-application/website-builder/floating-design-panel/element-section/color-tab/index)
         * [Dimensions Tab](./create-web-application/website-builder/floating-design-panel/element-section/dimensions-tab/index)
         * [Position Tab](./create-web-application/website-builder/floating-design-panel/element-section/position-tab/index)
+        * [Text Tab](./create-web-application/website-builder/floating-design-panel/element-section/text-tab/index)
       * [Page Tiles Section](./create-web-application/website-builder/floating-design-panel/page-tiles-section/index)
       * [Databases Section](./create-web-application/website-builder/floating-design-panel/databases-section/index)
       * [Conditions Section](./create-web-application/website-builder/floating-design-panel/conditions-section/index)
