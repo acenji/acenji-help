@@ -74,6 +74,83 @@ When creating a new page, configure:
 
 ---
 
+## Setting Up Page URLs
+
+Page URLs allow users to navigate directly to a specific page using a friendly URL instead of the system-generated page ID.
+
+### Why Use Page URLs?
+
+| Benefit | Description |
+|---------|-------------|
+| **Shareable Links** | Share direct links to specific pages |
+| **Bookmarkable** | Users can bookmark specific pages |
+| **Clean URLs** | Use friendly names like `welcome` instead of `Page_abc123` |
+| **Deep Linking** | Link directly to any page in your app |
+
+### Setting a Page URL
+
+1. Hover over the page card in the Page Section
+2. Click the **Edit** button
+3. In the "Edit Page" modal, you'll see two fields:
+   - **Name**: The display name of the page
+   - **Page URL (optional)**: The URL-friendly slug
+
+4. Enter a URL slug (e.g., `welcome`, `step-1`, `contact-us`)
+5. The preview shows how the URL will look: `/app?page=welcome`
+6. Click **Save**
+
+### URL Format Rules
+
+When typing a Page URL, it automatically formats to be URL-friendly:
+
+- Converts to lowercase
+- Replaces spaces with hyphens
+- Removes special characters
+- Example: "Contact Us!" becomes `contact-us`
+
+### Using Page URLs
+
+Once set, users can access the page directly:
+
+```
+https://yourapp.com/web-app/PROJECT_ID?page=welcome
+```
+
+| URL Parameter | Result |
+|---------------|--------|
+| `?page=welcome` | Opens page with slug "welcome" |
+| `?page=step-1` | Opens page with slug "step-1" |
+| `?page=Page_abc123` | Opens page by ID (fallback) |
+| No parameter | Opens the first page (default) |
+
+### Example Use Cases
+
+**Multi-Step Forms:**
+- `?page=intro` - Introduction page
+- `?page=step-1` - First step
+- `?page=step-2` - Second step
+- `?page=confirmation` - Thank you page
+
+**Dashboard Sections:**
+- `?page=overview` - Main dashboard
+- `?page=reports` - Reports section
+- `?page=settings` - User settings
+
+### Best Practices for Page URLs
+
+| Do | Don't |
+|----|-------|
+| Use lowercase | Use UPPERCASE |
+| Use hyphens for spaces | Use underscores or spaces |
+| Keep it short and descriptive | Use long complex slugs |
+| Use meaningful names | Use generic names like "page1" |
+
+**Good examples:** `welcome`, `user-profile`, `step-2-contact`, `thank-you`
+
+**Avoid:** `Page1`, `new_page`, `user profile`, `DASHBOARD`
+
+---
+
 ## Renaming Pages
 
 ### Quick Rename
