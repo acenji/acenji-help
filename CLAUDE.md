@@ -46,6 +46,11 @@ docsify serve .
 - Never commit directly to `main`
 - Push to `ivan`, merge via Pull Request on GitHub
 
+## Commit Messages
+
+- Do NOT add Co-Authored-By, Signed-off-by, or any signature lines
+- Just describe what was changed, use bullet points if needed
+
 ## Related Projects
 
 - **acenji-website**: Marketing website
