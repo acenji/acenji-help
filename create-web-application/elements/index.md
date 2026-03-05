@@ -63,6 +63,24 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Video](./video/index) | Video player |
 | [Link](./link/index) | Clickable hyperlink |
 | [User Info](./user-info/index) | User profile display |
+| [Key-Value Table](./key-value-table/index) | Structured label-value pair display |
+| [Badge](./badge/index) | Colored inline tags and pills |
+| [Card Grid](./card-grid/index) | Responsive grid of visual content cards with images and navigation |
+
+### Navigation Elements
+
+| Element | Description |
+|---------|-------------|
+| [Breadcrumb](./breadcrumb/index) | Navigation trail with clickable page links |
+| [Search Modal](./search-modal/index) | Search bar that filters content or navigates to pages |
+
+### Data & Navigation Elements
+
+| Element | Description |
+|---------|-------------|
+| [CRUD Grid](./crud-grid/index) | Data table with inline editing, sorting, filtering, and CSV import/export |
+| [Tree Navigation](./tree-navigation/index) | Hierarchical tree with expand/collapse, search, and dynamic data binding |
+| [JSON Data Source](./json-data-source/index) | Invisible element that fetches JSON from an API and provides data to other elements |
 
 ### Interactive Elements
 
@@ -114,6 +132,7 @@ Many elements can save data to the card database:
 - Checkbox
 - Dropdown
 - User Info
+- CRUD Grid
 
 Enable database saving in the element's **Connect Tab**.
 

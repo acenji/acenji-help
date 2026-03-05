@@ -38,6 +38,26 @@ The Question Text field supports HTML formatting, allowing you to include:
 - Lists (`<ul>`, `<ol>`)
 - Links (`<a>`)
 
+### Minimize Settings
+
+When **Minimize** is enabled, the following additional settings appear:
+
+| Property | Description | Default |
+|----------|-------------|---------|
+| **Set Height of Minimize First Row** | Height in pixels when minimized | 30px |
+| **Section Title** | Clickable header text. When set, replaces the More/Less button with a styled header bar | Empty |
+| **Section Icon** | MDI icon class for the header (e.g. `mdi mdi-information`). [Browse icons](https://pictogrammers.com/library/mdi/) | Empty |
+| **Accordion Group** | Group ID. Info elements with the same group ID act as an accordion — opening one closes the others | Empty |
+| **Start Collapsed** | Whether the content starts in collapsed state | On |
+
+#### Section Title Header
+
+When a **Section Title** is set, the Info element displays a clickable header bar instead of the default "More/Less" button. The header shows the icon (if set), title text, and a chevron indicator.
+
+#### Accordion Groups
+
+Assign the same **Accordion Group** ID (e.g., `faq-group`) to multiple Info elements. When a user expands one, all others in the same group automatically collapse — creating an FAQ-style accordion.
+
 ### Color Tab
 
 | Property | Description | Default |
