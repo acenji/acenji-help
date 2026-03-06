@@ -76,6 +76,8 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Progress Bar](./progress-bar/) | Horizontal bar or circular ring progress indicator |
 | [Alert](./alert/) | Temporary notification banner with auto-dismiss and animations |
 | [Map Element](./map-element/) | Interactive map with OSM, Google, HERE, and CSV2GEO providers |
+| [Pipe Content Renderer](./pipe-content-renderer/) | Parses delimiter-separated text into tags, lists, tables, or inline display |
+| [Reference List](./reference-list/) | Formatted citation/bibliography list with author, title, year, and links |
 
 ### Media Elements
 
@@ -83,6 +85,7 @@ ACENji provides a comprehensive library of elements organized into three categor
 |---------|-------------|
 | [Video Gallery](./video-gallery/) | Grid of videos with optional voting |
 | [Audio Player](./audio-player/) | Full audio player with playlist, streaming, speed control, and 4 styles |
+| [Image Gallery](./image-gallery/) | Image carousel with arrows, dots, thumbnails, captions, and aspect ratios |
 
 ### Navigation Elements
 

@@ -224,6 +224,9 @@ export default defineConfig({
                             { text: 'Progress Bar', link: '/create-web-application/elements/progress-bar/' },
                             { text: 'Audio Player', link: '/create-web-application/elements/audio-player/' },
                             { text: 'Color Picker', link: '/create-web-application/elements/color-picker/' },
+                            { text: 'Pipe Content Renderer', link: '/create-web-application/elements/pipe-content-renderer/' },
+                            { text: 'Reference List', link: '/create-web-application/elements/reference-list/' },
+                            { text: 'Image Gallery', link: '/create-web-application/elements/image-gallery/' },
                         ]
                     },
                 ]
