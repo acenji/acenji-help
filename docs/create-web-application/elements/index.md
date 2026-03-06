@@ -53,6 +53,10 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Rating](./rating/) | Star rating |
 | [Increment / Decrement](./increment-decrement/) | Counter control |
 | [Rich Editor](./rich-editor/) | Formatted text editor |
+| [Toggle Switch](./toggle-switch/) | iOS-style on/off switch with custom colors and sizes |
+| [Multiselect Dropdown](./multiselect-dropdown/) | Searchable multi-select with chips and max selections |
+| [Color Picker](./color-picker/) | Visual color picker with presets, eye dropper, and format toggle |
+| [File Uploader](./file-uploader/) | Drag and drop file upload with previews and validation |
 
 ### Display Elements
 
@@ -67,12 +71,18 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Badge](./badge/) | Colored inline tags and pills |
 | [Card Grid](./card-grid/) | Responsive grid of visual content cards with images and navigation |
 | [Stat Card](./stat-card/) | Dashboard metric card with value and label |
+| [Icon](./icon/) | Standalone icon with configurable size, color, and alignment |
+| [Shape](./shape/) | Decorative shape: line/divider, rectangle, circle, or triangle |
+| [Progress Bar](./progress-bar/) | Horizontal bar or circular ring progress indicator |
+| [Alert](./alert/) | Temporary notification banner with auto-dismiss and animations |
+| [Map Element](./map-element/) | Interactive map with OSM, Google, HERE, and CSV2GEO providers |
 
 ### Media Elements
 
 | Element | Description |
 |---------|-------------|
 | [Video Gallery](./video-gallery/) | Grid of videos with optional voting |
+| [Audio Player](./audio-player/) | Full audio player with playlist, streaming, speed control, and 4 styles |
 
 ### Navigation Elements
 
@@ -121,6 +131,7 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Comment Thread](./comment-thread/) | Threaded comments with replies, editing, deletion, and optional likes |
 | [Activity Feed](./activity-feed/) | Chronological activity/event timeline with colored type indicators |
 | [Markdown Renderer](./markdown-renderer/) | Renders raw Markdown as formatted HTML content |
+| [HTML Element](./html-element/) | Raw HTML/CSS/JS with code editor, live preview, and templates |
 
 ---
 

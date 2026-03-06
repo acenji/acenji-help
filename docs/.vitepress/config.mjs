@@ -4,6 +4,7 @@ export default defineConfig({
     title: 'ACENji Help',
     description: 'Documentation for ACENji — the no-code platform for web and mobile apps',
     cleanUrls: true,
+    ignoreDeadLinks: true,
 
     // Allow raw HTML in markdown (many legacy pages use <style>, <details>, <iframe> etc.)
     markdown: {
@@ -212,6 +213,17 @@ export default defineConfig({
                             { text: 'Comment Thread', link: '/create-web-application/elements/comment-thread/' },
                             { text: 'Activity Feed', link: '/create-web-application/elements/activity-feed/' },
                             { text: 'Markdown Renderer', link: '/create-web-application/elements/markdown-renderer/' },
+                            { text: 'Icon', link: '/create-web-application/elements/icon/' },
+                            { text: 'Shape', link: '/create-web-application/elements/shape/' },
+                            { text: 'HTML Element', link: '/create-web-application/elements/html-element/' },
+                            { text: 'Alert', link: '/create-web-application/elements/alert/' },
+                            { text: 'File Uploader', link: '/create-web-application/elements/file-uploader/' },
+                            { text: 'Multiselect Dropdown', link: '/create-web-application/elements/multiselect-dropdown/' },
+                            { text: 'Map Element', link: '/create-web-application/elements/map-element/' },
+                            { text: 'Toggle Switch', link: '/create-web-application/elements/toggle-switch/' },
+                            { text: 'Progress Bar', link: '/create-web-application/elements/progress-bar/' },
+                            { text: 'Audio Player', link: '/create-web-application/elements/audio-player/' },
+                            { text: 'Color Picker', link: '/create-web-application/elements/color-picker/' },
                         ]
                     },
                 ]

@@ -118,9 +118,11 @@ margin-left: 10px;
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdh85v8pzUJN7oEcyPxnGlOQdLPsvcXnrvLg7mXo32eNocXpg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const video = document.querySelector('video');
-    video.load(); // forces control/UI re-render
-  });
+  if (typeof document !== 'undefined') {
+    document.addEventListener('DOMContentLoaded', function () {
+      const video = document.querySelector('video');
+      if (video) video.load();
+    });
+  }
 </script>
 

@@ -87,7 +87,7 @@ That immediately adds the first condition block on the screen. The block has a t
 The buttons are: Delete, Edit, Clone, and Disable. See the video below to learn how the buttons interact with the user.
 <p style="margin-top:30px;"></p>
 
-<video src="./conditional-logic/quick-start/conditions-video-2.mp4" type="video/mp4" controls width="860" style="max-width:100%;">
+<video src="./conditions-video-2.mp4" type="video/mp4" controls width="860" style="max-width:100%;">
 </video>
 <p style="margin-top:30px;"></p>
 <p style="margin-top:70px;"></p>
@@ -97,7 +97,7 @@ The buttons are: Delete, Edit, Clone, and Disable. See the video below to learn 
 Now that our app has conditional logic embedded, let's go ahead and test it in the app store.
 <p style="margin-top:30px;"></p>
 
-<video src="./conditional-logic/quick-start/conditions-video-3.mp4" type="video/mp4" controls width="860" style="max-width:100%;">
+<video src="./conditions-video-3.mp4" type="video/mp4" controls width="860" style="max-width:100%;">
 </video>
 <p style="margin-top:30px;"></p>
 <p style="margin-top:20px;"></p>
