@@ -227,6 +227,13 @@ export default defineConfig({
                             { text: 'Pipe Content Renderer', link: '/create-web-application/elements/pipe-content-renderer/' },
                             { text: 'Reference List', link: '/create-web-application/elements/reference-list/' },
                             { text: 'Image Gallery', link: '/create-web-application/elements/image-gallery/' },
+                            { text: 'Bar Chart', link: '/create-web-application/elements/bar-chart/' },
+                            { text: 'Line Chart', link: '/create-web-application/elements/line-chart/' },
+                            { text: 'Pie Chart', link: '/create-web-application/elements/pie-chart/' },
+                            { text: 'Gauge Chart', link: '/create-web-application/elements/gauge-chart/' },
+                            { text: 'Sparkline', link: '/create-web-application/elements/sparkline-chart/' },
+                            { text: 'Heatmap', link: '/create-web-application/elements/heatmap-chart/' },
+                            { text: 'Funnel Chart', link: '/create-web-application/elements/funnel-chart/' },
                         ]
                     },
                 ]

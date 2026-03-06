@@ -118,6 +118,18 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Bottom Sheet](./bottom-sheet/) | Slide-up panel triggered by button click |
 | [Bookmark List](./bookmark-list/) | Displays bookmarked items from localStorage |
 
+### Chart Elements
+
+| Element | Description |
+|---------|-------------|
+| [Bar Chart](./bar-chart/) | Vertical or horizontal bar chart with custom colors and value labels |
+| [Line Chart](./line-chart/) | Line chart with area fill, smooth curves, and data points |
+| [Pie Chart](./pie-chart/) | Pie or donut chart with legend and percentage labels |
+| [Gauge Chart](./gauge-chart/) | Semicircular gauge with colored segments and needle |
+| [Sparkline](./sparkline-chart/) | Compact inline sparkline for trends and KPIs |
+| [Heatmap](./heatmap-chart/) | Color-interpolated grid heatmap with row and column labels |
+| [Funnel Chart](./funnel-chart/) | Funnel chart with trapezoid stages and conversion percentages |
+
 ### Layout Elements (Advanced)
 
 | Element | Description |
