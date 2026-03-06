@@ -75,7 +75,6 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Shape](./shape/) | Decorative shape: line/divider, rectangle, circle, or triangle |
 | [Progress Bar](./progress-bar/) | Horizontal bar or circular ring progress indicator |
 | [Alert](./alert/) | Temporary notification banner with auto-dismiss and animations |
-| [Map Element](./map-element/) | Interactive map with OSM, Google, HERE, and CSV2GEO providers |
 | [Pipe Content Renderer](./pipe-content-renderer/) | Parses delimiter-separated text into tags, lists, tables, or inline display |
 | [Reference List](./reference-list/) | Formatted citation/bibliography list with author, title, year, and links |
 
@@ -129,6 +128,16 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Sparkline](./sparkline-chart/) | Compact inline sparkline for trends and KPIs |
 | [Heatmap](./heatmap-chart/) | Color-interpolated grid heatmap with row and column labels |
 | [Funnel Chart](./funnel-chart/) | Funnel chart with trapezoid stages and conversion percentages |
+
+### Maps & Location Elements
+
+| Element | Description |
+|---------|-------------|
+| [Map Element](./map-element/) | Interactive map with OSM, Google, HERE, and CSV2GEO providers |
+| [Directions](./directions/) | Route navigation with geocoding, turn-by-turn steps, and travel modes |
+| [Store Locator](./store-locator/) | Multi-location map with searchable list panel and distance calculation |
+| [Geofencing](./geofencing/) | Geographic zone tracking with enter/exit triggers |
+| [Address Picker](./address-picker/) | Structured address form with autocomplete and map preview |
 
 ### Layout Elements (Advanced)
 

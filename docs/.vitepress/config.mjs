@@ -234,6 +234,10 @@ export default defineConfig({
                             { text: 'Sparkline', link: '/create-web-application/elements/sparkline-chart/' },
                             { text: 'Heatmap', link: '/create-web-application/elements/heatmap-chart/' },
                             { text: 'Funnel Chart', link: '/create-web-application/elements/funnel-chart/' },
+                            { text: 'Directions', link: '/create-web-application/elements/directions/' },
+                            { text: 'Store Locator', link: '/create-web-application/elements/store-locator/' },
+                            { text: 'Geofencing', link: '/create-web-application/elements/geofencing/' },
+                            { text: 'Address Picker', link: '/create-web-application/elements/address-picker/' },
                         ]
                     },
                 ]
