@@ -1,0 +1,16 @@
+{
+  "name": "acenji-help",
+  "version": "1.0.0",
+  "description": "ACENji Help Documentation",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": ["acenji", "help", "documentation"],
+  "author": "ACENji",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
