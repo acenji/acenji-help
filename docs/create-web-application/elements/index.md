@@ -134,6 +134,12 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Coupon](./coupon/) | Discount coupon card or promo code input |
 | [Invoice](./invoice/) | Professional invoice with line items and totals |
 
+### Communication Elements
+
+| Element | Description |
+|---------|-------------|
+| [Email Composer](./email-composer/) | Full email compose form with recipients, CC/BCC, rich body, attachments, templates, and schedule send |
+
 ### Data & Navigation Elements
 
 | Element | Description |
