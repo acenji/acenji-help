@@ -252,6 +252,11 @@ export default defineConfig({
                             { text: 'Stepper', link: '/create-web-application/elements/stepper/' },
                             { text: 'Mega Menu', link: '/create-web-application/elements/mega-menu/' },
                             { text: 'Command Palette', link: '/create-web-application/elements/command-palette/' },
+                            { text: 'Product Card', link: '/create-web-application/elements/product-card/' },
+                            { text: 'Cart', link: '/create-web-application/elements/cart/' },
+                            { text: 'Checkout', link: '/create-web-application/elements/checkout/' },
+                            { text: 'Coupon', link: '/create-web-application/elements/coupon/' },
+                            { text: 'Invoice', link: '/create-web-application/elements/invoice/' },
                         ]
                     },
                 ]

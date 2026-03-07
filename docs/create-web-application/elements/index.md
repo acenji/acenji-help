@@ -124,6 +124,16 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Mega Menu](./mega-menu/) | Multi-column dropdown navigation menu |
 | [Command Palette](./command-palette/) | Spotlight-style search with categorized commands and shortcuts |
 
+### E-Commerce & Payments Elements
+
+| Element | Description |
+|---------|-------------|
+| [Product Card](./product-card/) | Product display card with image, price, rating, and add-to-cart |
+| [Cart](./cart/) | Shopping cart with items, quantities, and pricing breakdown |
+| [Checkout](./checkout/) | Checkout form with shipping, payment, and order summary |
+| [Coupon](./coupon/) | Discount coupon card or promo code input |
+| [Invoice](./invoice/) | Professional invoice with line items and totals |
+
 ### Data & Navigation Elements
 
 | Element | Description |
