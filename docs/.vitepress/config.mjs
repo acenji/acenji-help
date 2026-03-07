@@ -258,6 +258,7 @@ export default defineConfig({
                             { text: 'Coupon', link: '/create-web-application/elements/coupon/' },
                             { text: 'Invoice', link: '/create-web-application/elements/invoice/' },
                             { text: 'Email Composer', link: '/create-web-application/elements/email-composer/' },
+                            { text: 'SMS Composer', link: '/create-web-application/elements/sms-composer/' },
                         ]
                     },
                 ]
