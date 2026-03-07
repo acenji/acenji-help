@@ -248,6 +248,10 @@ export default defineConfig({
                             { text: 'Feature Grid', link: '/create-web-application/elements/feature-grid/' },
                             { text: 'Team Card', link: '/create-web-application/elements/team-card/' },
                             { text: 'Hero Banner', link: '/create-web-application/elements/hero-banner/' },
+                            { text: 'Pagination', link: '/create-web-application/elements/pagination/' },
+                            { text: 'Stepper', link: '/create-web-application/elements/stepper/' },
+                            { text: 'Mega Menu', link: '/create-web-application/elements/mega-menu/' },
+                            { text: 'Command Palette', link: '/create-web-application/elements/command-palette/' },
                         ]
                     },
                 ]

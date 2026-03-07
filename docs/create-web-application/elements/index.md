@@ -115,6 +115,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Team Card](./team-card/) | Team member cards with avatar, role, and social links |
 | [Hero Banner](./hero-banner/) | Full-width hero section with heading and CTA buttons |
 
+### Navigation (Advanced) Elements
+
+| Element | Description |
+|---------|-------------|
+| [Pagination](./pagination/) | Page navigation with numbered buttons, arrows, and item counts |
+| [Stepper](./stepper/) | Step-by-step wizard with progress indicators |
+| [Mega Menu](./mega-menu/) | Multi-column dropdown navigation menu |
+| [Command Palette](./command-palette/) | Spotlight-style search with categorized commands and shortcuts |
+
 ### Data & Navigation Elements
 
 | Element | Description |
