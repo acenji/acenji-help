@@ -95,6 +95,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Tab Bar](./tab-bar/) | Tabbed navigation that switches between pages |
 | [Sticky Header](./sticky-header/) | Fixed header with title and back navigation |
 
+### Calendar & Scheduling Elements
+
+| Element | Description |
+|---------|-------------|
+| [Calendar View](./calendar-view/) | Monthly calendar with events, navigation, and week numbers |
+| [Event Card](./event-card/) | Styled event card with date badge, time, location, and RSVP |
+| [Booking](./booking/) | Appointment scheduler with date picker and time slot selection |
+| [Timeline](./timeline/) | Vertical timeline with dated entries, icons, and descriptions |
+
 ### Data & Navigation Elements
 
 | Element | Description |

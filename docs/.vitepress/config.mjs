@@ -238,6 +238,10 @@ export default defineConfig({
                             { text: 'Store Locator', link: '/create-web-application/elements/store-locator/' },
                             { text: 'Geofencing', link: '/create-web-application/elements/geofencing/' },
                             { text: 'Address Picker', link: '/create-web-application/elements/address-picker/' },
+                            { text: 'Calendar View', link: '/create-web-application/elements/calendar-view/' },
+                            { text: 'Event Card', link: '/create-web-application/elements/event-card/' },
+                            { text: 'Booking', link: '/create-web-application/elements/booking/' },
+                            { text: 'Timeline', link: '/create-web-application/elements/timeline/' },
                         ]
                     },
                 ]
