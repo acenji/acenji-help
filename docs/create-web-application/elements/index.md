@@ -143,6 +143,12 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Push Notification](./push-notification/) | Push notification composer with iOS/Android/desktop preview, audience targeting, and notification inbox |
 | [Contact Form](./contact-form/) | Contact form with department routing, support ticket mode, urgency levels, and spam protection |
 
+### Auth & User Elements
+
+| Element | Description |
+|---------|-------------|
+| [Profile Card](./profile-card/) | User profile card with avatar, stats, social links, verified badge, and banner mode |
+
 ### Data & Navigation Elements
 
 | Element | Description |

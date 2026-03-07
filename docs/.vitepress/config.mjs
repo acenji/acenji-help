@@ -261,6 +261,7 @@ export default defineConfig({
                             { text: 'SMS Composer', link: '/create-web-application/elements/sms-composer/' },
                             { text: 'Push Notification', link: '/create-web-application/elements/push-notification/' },
                             { text: 'Contact Form', link: '/create-web-application/elements/contact-form/' },
+                            { text: 'Profile Card', link: '/create-web-application/elements/profile-card/' },
                         ]
                     },
                 ]
