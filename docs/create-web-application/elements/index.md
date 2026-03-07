@@ -148,6 +148,7 @@ ACENji provides a comprehensive library of elements organized into three categor
 | Element | Description |
 |---------|-------------|
 | [Profile Card](./profile-card/) | User profile card with avatar, stats, social links, verified badge, and banner mode |
+| [Avatar](./avatar/) | User avatar with status dot, badge, group stacking, and editable upload mode |
 
 ### Data & Navigation Elements
 
