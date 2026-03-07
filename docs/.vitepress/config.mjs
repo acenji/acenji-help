@@ -242,6 +242,12 @@ export default defineConfig({
                             { text: 'Event Card', link: '/create-web-application/elements/event-card/' },
                             { text: 'Booking', link: '/create-web-application/elements/booking/' },
                             { text: 'Timeline', link: '/create-web-application/elements/timeline/' },
+                            { text: 'Testimonial', link: '/create-web-application/elements/testimonial/' },
+                            { text: 'FAQ Accordion', link: '/create-web-application/elements/faq-accordion/' },
+                            { text: 'Pricing Table', link: '/create-web-application/elements/pricing-table/' },
+                            { text: 'Feature Grid', link: '/create-web-application/elements/feature-grid/' },
+                            { text: 'Team Card', link: '/create-web-application/elements/team-card/' },
+                            { text: 'Hero Banner', link: '/create-web-application/elements/hero-banner/' },
                         ]
                     },
                 ]

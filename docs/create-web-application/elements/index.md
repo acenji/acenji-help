@@ -104,6 +104,17 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Booking](./booking/) | Appointment scheduler with date picker and time slot selection |
 | [Timeline](./timeline/) | Vertical timeline with dated entries, icons, and descriptions |
 
+### Content & Marketing Elements
+
+| Element | Description |
+|---------|-------------|
+| [Testimonial](./testimonial/) | Customer quote card with author, rating, and avatar |
+| [FAQ Accordion](./faq-accordion/) | Expandable question and answer list with search |
+| [Pricing Table](./pricing-table/) | Side-by-side pricing plan comparison cards |
+| [Feature Grid](./feature-grid/) | Grid of feature cards with icons and descriptions |
+| [Team Card](./team-card/) | Team member cards with avatar, role, and social links |
+| [Hero Banner](./hero-banner/) | Full-width hero section with heading and CTA buttons |
+
 ### Data & Navigation Elements
 
 | Element | Description |
