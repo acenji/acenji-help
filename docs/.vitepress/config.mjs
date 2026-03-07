@@ -259,6 +259,7 @@ export default defineConfig({
                             { text: 'Invoice', link: '/create-web-application/elements/invoice/' },
                             { text: 'Email Composer', link: '/create-web-application/elements/email-composer/' },
                             { text: 'SMS Composer', link: '/create-web-application/elements/sms-composer/' },
+                            { text: 'Push Notification', link: '/create-web-application/elements/push-notification/' },
                         ]
                     },
                 ]
