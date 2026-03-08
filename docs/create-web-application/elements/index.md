@@ -185,6 +185,13 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Grouped List](./grouped-list/) | Grouped items with sections, cards, and alphabetical sidebar |
 | [Infinite Scroll](./infinite-scroll/) | Continuously loading list with grid, feed, and loading indicators |
 
+### Notifications & Feedback Elements
+
+| Element | Description |
+|---------|-------------|
+| [Skeleton Loader](./skeleton-loader/) | Animated content placeholder with card, list, and form layouts |
+| [Confetti](./confetti/) | Celebration animation with burst, rain, and fireworks modes |
+
 ### Data & Navigation Elements
 
 | Element | Description |

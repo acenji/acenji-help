@@ -286,6 +286,14 @@ export default defineConfig({
                             { text: 'Infinite Scroll', link: '/create-web-application/elements/infinite-scroll/' },
                         ]
                     },
+                    {
+                        text: 'Notifications & Feedback',
+                        collapsed: true,
+                        items: [
+                            { text: 'Skeleton Loader', link: '/create-web-application/elements/skeleton-loader/' },
+                            { text: 'Confetti', link: '/create-web-application/elements/confetti/' },
+                        ]
+                    },
                 ]
             },
             {
