@@ -176,6 +176,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [QR Code](./qr-code/) | QR code generator with configurable color, size, label, and download |
 | [Screen Recorder](./screen-recorder/) | Screen capture interface with preview, timer, mic/camera toggles, and recording controls |
 
+### Tables & Lists Elements
+
+| Element | Description |
+|---------|-------------|
+| [Kanban Board](./kanban-board/) | Task board with draggable cards, columns, and swimlane views |
+| [Timeline List](./timeline-list/) | Milestone timeline with vertical, horizontal, and compact layouts |
+| [Grouped List](./grouped-list/) | Grouped items with sections, cards, and alphabetical sidebar |
+| [Infinite Scroll](./infinite-scroll/) | Continuously loading list with grid, feed, and loading indicators |
+
 ### Data & Navigation Elements
 
 | Element | Description |

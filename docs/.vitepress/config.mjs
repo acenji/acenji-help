@@ -276,6 +276,16 @@ export default defineConfig({
                             { text: 'Screen Recorder', link: '/create-web-application/elements/screen-recorder/' },
                         ]
                     },
+                    {
+                        text: 'Tables & Lists',
+                        collapsed: true,
+                        items: [
+                            { text: 'Kanban Board', link: '/create-web-application/elements/kanban-board/' },
+                            { text: 'Timeline List', link: '/create-web-application/elements/timeline-list/' },
+                            { text: 'Grouped List', link: '/create-web-application/elements/grouped-list/' },
+                            { text: 'Infinite Scroll', link: '/create-web-application/elements/infinite-scroll/' },
+                        ]
+                    },
                 ]
             },
             {
