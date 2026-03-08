@@ -303,6 +303,16 @@ export default defineConfig({
                             { text: 'Language Switcher', link: '/create-web-application/elements/language-switcher/' },
                         ]
                     },
+                    {
+                        text: 'SEO & Marketing',
+                        collapsed: true,
+                        items: [
+                            { text: 'Meta Tags', link: '/create-web-application/elements/meta-tags/' },
+                            { text: 'Open Graph', link: '/create-web-application/elements/open-graph/' },
+                            { text: 'Structured Data', link: '/create-web-application/elements/structured-data/' },
+                            { text: 'Sitemap Generator', link: '/create-web-application/elements/sitemap-generator/' },
+                        ]
+                    },
                 ]
             },
             {

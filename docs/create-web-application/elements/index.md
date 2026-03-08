@@ -200,6 +200,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [High Contrast](./high-contrast/) | Contrast mode toggle with palette and toolbar options |
 | [Language Switcher](./language-switcher/) | Language selector with dropdown, flags, and list modes |
 
+### SEO & Marketing Elements
+
+| Element | Description |
+|---------|-------------|
+| [Meta Tags](./meta-tags/) | SEO meta tag editor with Google search preview and character counters |
+| [Open Graph](./open-graph/) | Social share preview for Facebook, Twitter/X with combined view |
+| [Structured Data](./structured-data/) | JSON-LD structured data with rich snippet preview and validation |
+| [Sitemap Generator](./sitemap-generator/) | Visual sitemap with tree, table, and card-based section views |
+
 ### Data & Navigation Elements
 
 | Element | Description |
