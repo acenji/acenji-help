@@ -150,6 +150,14 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Profile Card](./profile-card/) | User profile card with avatar, stats, social links, verified badge, and banner mode |
 | [Avatar](./avatar/) | User avatar with status dot, badge, group stacking, and editable upload mode |
 
+### Files & Documents Elements
+
+| Element | Description |
+|---------|-------------|
+| [PDF Viewer](./pdf-viewer/) | PDF document viewer with page navigation, zoom, thumbnails sidebar, download, and print |
+| [Doc Viewer](./doc-viewer/) | Office document viewer supporting Word, Excel, PowerPoint, text, and CSV with preview and download |
+| [File Manager](./file-manager/) | File browser with folder navigation, breadcrumbs, search, upload, and grid/list views |
+
 ### Data & Navigation Elements
 
 | Element | Description |

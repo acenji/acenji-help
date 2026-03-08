@@ -263,6 +263,9 @@ export default defineConfig({
                             { text: 'Contact Form', link: '/create-web-application/elements/contact-form/' },
                             { text: 'Profile Card', link: '/create-web-application/elements/profile-card/' },
                             { text: 'Avatar', link: '/create-web-application/elements/avatar/' },
+                            { text: 'PDF Viewer', link: '/create-web-application/elements/pdf-viewer/' },
+                            { text: 'Doc Viewer', link: '/create-web-application/elements/doc-viewer/' },
+                            { text: 'File Manager', link: '/create-web-application/elements/file-manager/' },
                         ]
                     },
                 ]
