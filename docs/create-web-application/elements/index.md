@@ -167,6 +167,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Social Feed](./social-feed/) | Social media feed display with card, embed, and media grid modes |
 | [Follow Button](./follow-button/) | Follow/subscribe button with follower count, avatar, and profile card mode |
 
+### Media (Advanced) Elements
+
+| Element | Description |
+|---------|-------------|
+| [Comparison Slider](./comparison-slider/) | Before/after image comparison with draggable slider, side-by-side, and toggle modes |
+| [Lightbox](./lightbox/) | Image gallery with fullscreen overlay, slideshow, and thumbnail navigation |
+| [QR Code](./qr-code/) | QR code generator with configurable color, size, label, and download |
+| [Screen Recorder](./screen-recorder/) | Screen capture interface with preview, timer, mic/camera toggles, and recording controls |
+
 ### Data & Navigation Elements
 
 | Element | Description |

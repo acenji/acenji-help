@@ -270,6 +270,10 @@ export default defineConfig({
                             { text: 'Reactions', link: '/create-web-application/elements/reactions/' },
                             { text: 'Social Feed', link: '/create-web-application/elements/social-feed/' },
                             { text: 'Follow Button', link: '/create-web-application/elements/follow-button/' },
+                            { text: 'Comparison Slider', link: '/create-web-application/elements/comparison-slider/' },
+                            { text: 'Lightbox', link: '/create-web-application/elements/lightbox/' },
+                            { text: 'QR Code', link: '/create-web-application/elements/qr-code/' },
+                            { text: 'Screen Recorder', link: '/create-web-application/elements/screen-recorder/' },
                         ]
                     },
                 ]
