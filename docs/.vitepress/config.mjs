@@ -266,6 +266,10 @@ export default defineConfig({
                             { text: 'PDF Viewer', link: '/create-web-application/elements/pdf-viewer/' },
                             { text: 'Doc Viewer', link: '/create-web-application/elements/doc-viewer/' },
                             { text: 'File Manager', link: '/create-web-application/elements/file-manager/' },
+                            { text: 'Share Buttons', link: '/create-web-application/elements/share-buttons/' },
+                            { text: 'Reactions', link: '/create-web-application/elements/reactions/' },
+                            { text: 'Social Feed', link: '/create-web-application/elements/social-feed/' },
+                            { text: 'Follow Button', link: '/create-web-application/elements/follow-button/' },
                         ]
                     },
                 ]

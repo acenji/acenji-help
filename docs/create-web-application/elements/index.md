@@ -158,6 +158,15 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Doc Viewer](./doc-viewer/) | Office document viewer supporting Word, Excel, PowerPoint, text, and CSV with preview and download |
 | [File Manager](./file-manager/) | File browser with folder navigation, breadcrumbs, search, upload, and grid/list views |
 
+### Social & Sharing Elements
+
+| Element | Description |
+|---------|-------------|
+| [Share Buttons](./share-buttons/) | Social sharing buttons for Facebook, X/Twitter, LinkedIn, WhatsApp, email with icon, button, and minimal modes |
+| [Reactions](./reactions/) | Emoji reaction bar with like, love, haha, wow, sad, angry and counts |
+| [Social Feed](./social-feed/) | Social media feed display with card, embed, and media grid modes |
+| [Follow Button](./follow-button/) | Follow/subscribe button with follower count, avatar, and profile card mode |
+
 ### Data & Navigation Elements
 
 | Element | Description |
