@@ -294,6 +294,15 @@ export default defineConfig({
                             { text: 'Confetti', link: '/create-web-application/elements/confetti/' },
                         ]
                     },
+                    {
+                        text: 'Accessibility & UX',
+                        collapsed: true,
+                        items: [
+                            { text: 'Font Size Adjuster', link: '/create-web-application/elements/font-size-adjuster/' },
+                            { text: 'High Contrast', link: '/create-web-application/elements/high-contrast/' },
+                            { text: 'Language Switcher', link: '/create-web-application/elements/language-switcher/' },
+                        ]
+                    },
                 ]
             },
             {

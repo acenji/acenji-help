@@ -192,6 +192,14 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Skeleton Loader](./skeleton-loader/) | Animated content placeholder with card, list, and form layouts |
 | [Confetti](./confetti/) | Celebration animation with burst, rain, and fireworks modes |
 
+### Accessibility & UX Elements
+
+| Element | Description |
+|---------|-------------|
+| [Font Size Adjuster](./font-size-adjuster/) | Text size controls with buttons, slider, and stepper modes |
+| [High Contrast](./high-contrast/) | Contrast mode toggle with palette and toolbar options |
+| [Language Switcher](./language-switcher/) | Language selector with dropdown, flags, and list modes |
+
 ### Data & Navigation Elements
 
 | Element | Description |
