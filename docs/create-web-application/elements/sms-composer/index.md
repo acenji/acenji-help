@@ -7,7 +7,7 @@ The **SMS Composer** element provides a visual SMS composition interface with a 
 ### Full Compose Mode
 The default mode shows a complete SMS compose panel alongside a live phone preview:
 - **To** field with country code selector and phone chip input
-- **Message body** with variable merge pills (`{{name}}`, `{{code}}`, etc.)
+- **Message body** with variable merge pills (<code v-pre>{{name}}</code>, <code v-pre>{{code}}</code>, etc.)
 - **Character counter** — shows current count vs. 160-char GSM-7 limit
 - **Segment counter** — color-coded badge showing how many SMS segments the message will use (green = 1 segment, orange = multiple)
 - **Encoding indicator** — shows GSM-7 or Unicode based on content
@@ -66,7 +66,7 @@ Configure your SMS provider in **Project Settings > Providers > SMS**:
 
 ## Use Cases
 
-- **Verification codes** — Quick mode with `{{code}}` variable
+- **Verification codes** — Quick mode with <code v-pre>{{code}}</code> variable
 - **Appointment reminders** — Template mode with date/time variables
 - **Order updates** — Compose mode with order data merge
 - **Two-way support** — Conversation mode for customer interactions

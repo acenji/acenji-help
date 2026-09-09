@@ -13,7 +13,7 @@ The default mode shows a complete email interface similar to Gmail or Outlook:
 - **CC / BCC** fields (optional, expandable)
 - **Subject** line with variable merge support
 - **Rich text body** with formatting toolbar (bold, italic, lists, links, images)
-- **Variable merge pills** — insert `{{name}}`, `{{order.id}}`, etc. to dynamically populate content
+- **Variable merge pills** — insert <code v-pre>{{name}}</code>, <code v-pre>{{order.id}}</code>, etc. to dynamically populate content
 - **Attachment zone** — drag & drop files or click to attach
 - **Save Draft** and **Send** buttons
 - **Schedule Send** option (optional)
@@ -37,7 +37,7 @@ For workflows where the email body is pre-designed and the user only fills in va
 |----------|------|---------|-------------|
 | Accent Color | Color | `#4285F4` | Color for buttons and highlights |
 | Mode | Select | `compose` | `compose`, `quick`, or `template-only` |
-| Default From | Text | *(empty)* | Sender address. Use `{{currentUser.email}}` for dynamic |
+| Default From | Text | *(empty)* | Sender address. Use <code v-pre>{{currentUser.email}}</code> for dynamic |
 | Button Text | Text | `Send` | Label on the send button |
 | Success Message | Text | `Email sent successfully!` | Message shown after successful send |
 | Show CC/BCC | Toggle | On | Show CC and BCC fields |
@@ -52,9 +52,9 @@ For workflows where the email body is pre-designed and the user only fills in va
 
 One of the most powerful features of the Email Composer is **variable merge**. You can insert dynamic placeholders in the subject and body that get replaced with real data at send time:
 
-- `{{currentUser.name}}` — the logged-in user's name
-- `{{currentUser.email}}` — the logged-in user's email
-- `{{order.id}}` — data from other elements or data sources
+- <code v-pre>{{currentUser.name}}</code> — the logged-in user's name
+- <code v-pre>{{currentUser.email}}</code> — the logged-in user's email
+- <code v-pre>{{order.id}}</code> — data from other elements or data sources
 - Any custom variable defined in your project
 
 Variables appear as highlighted pills in the editor, making them easy to identify and manage.
