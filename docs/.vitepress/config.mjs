@@ -222,6 +222,7 @@ export default defineConfig({
                             { text: 'Map Element', link: '/create-web-application/elements/map-element/' },
                             { text: 'Toggle Switch', link: '/create-web-application/elements/toggle-switch/' },
                             { text: 'Progress Bar', link: '/create-web-application/elements/progress-bar/' },
+                            { text: 'Journey Bar', link: '/create-web-application/elements/journey-bar/' },
                             { text: 'Audio Player', link: '/create-web-application/elements/audio-player/' },
                             { text: 'Color Picker', link: '/create-web-application/elements/color-picker/' },
                             { text: 'Pipe Content Renderer', link: '/create-web-application/elements/pipe-content-renderer/' },
