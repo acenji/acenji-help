@@ -74,6 +74,7 @@ ACENji provides a comprehensive library of elements organized into three categor
 | [Icon](./icon/) | Standalone icon with configurable size, color, and alignment |
 | [Shape](./shape/) | Decorative shape: line/divider, rectangle, circle, or triangle |
 | [Progress Bar](./progress-bar/) | Horizontal bar or circular ring progress indicator |
+| [Journey Bar](./journey-bar/) | Multi-stage progress bar for a gated, multi-page journey (Gate Controller-driven) |
 | [Alert](./alert/) | Temporary notification banner with auto-dismiss and animations |
 | [Pipe Content Renderer](./pipe-content-renderer/) | Parses delimiter-separated text into tags, lists, tables, or inline display |
 | [Reference List](./reference-list/) | Formatted citation/bibliography list with author, title, year, and links |
