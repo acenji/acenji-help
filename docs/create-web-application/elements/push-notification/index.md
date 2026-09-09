@@ -7,7 +7,7 @@ The **Push Notification** element provides a visual push notification composer w
 ### Compose Mode
 The default mode shows a full notification compose panel alongside a live device preview:
 - **Title** with character counter (65 chars recommended for mobile)
-- **Body** with variable merge pills (`{{name}}`, `{{order_id}}`, etc.)
+- **Body** with variable merge pills (<code v-pre>{{name}}</code>, <code v-pre>{{order_id}}</code>, etc.)
 - **Image** upload zone for rich push notifications (optional)
 - **Action URL** for deep linking when the notification is tapped (optional)
 - **Audience selector** — tabs for All Users, Segment, Topic, or Specific users
@@ -68,7 +68,7 @@ Configure your push notification provider in **Project Settings > Providers > Pu
 
 ## Use Cases
 
-- **Order updates** — Quick mode with `{{order_status}}` variable
+- **Order updates** — Quick mode with <code v-pre>{{order_status}}</code> variable
 - **Marketing campaigns** — Compose mode with image and deep link to promo page
 - **Re-engagement** — Scheduled send to inactive users via segment targeting
 - **System alerts** — High priority notifications for critical events
