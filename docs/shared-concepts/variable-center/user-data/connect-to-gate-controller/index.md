@@ -106,6 +106,40 @@ In the User Data grid, you may see gate-related indicators:
 
 ---
 
+## Two Different Grids on the User Data Page — Don't Confuse Them
+
+The User Data page shows up to two separate grids for a session, and they serve different purposes:
+
+| | Top grid ("Add gate controller section") | Bottom grid ("Group session participants") |
+|---|---|---|
+| **One row per** | Session (one value, shared by everyone) | Participant |
+| **What appears there** | Only variable names already used as a *Start Time Variable* by the assigned Gate Controller template | Every variable added to this session via Add Variables |
+| **How you set a value** | Enter it once | Enter it on every participant's row — there is no single shared "group" row |
+
+A brand-new variable you just created in **Variable Center → Settings → Variables** will **not** appear in the top grid automatically, even if you intend it as a cycle-open time — it only shows up there once some gate's *Start Time Variable* is actually re-pointed at it (see [Set Time Lock](../../gate-controller/add-a-gate/set-time-lock/index.md)). If you want a custom-named variable (e.g. a "Cycle 2 Open Time") to work through the top grid, re-point the relevant gate first; otherwise use the bottom grid and enter the value on each participant's row.
+
+A value entered in the top grid is automatically copied into every participant's own data, including a participant who joins the session later — you do not need to also enter it in the bottom grid.
+
+---
+
+## Showing a Live Countdown in Your Own Text
+
+Before building a custom countdown, check whether the **built-in** one already covers what you need: every time-locked gate can show a live "Opens in Xd Xh Xm" status automatically in its own Display Element, with no variable required at all — see [Set Display Element](../../gate-controller/add-a-gate/set-display-element/index.md). This is almost always the simpler option, and it's the first thing to check if a gate used to show a countdown and stopped.
+
+If you want a countdown to appear somewhere other than the gate's own overlay — for example, proactively on an earlier page, before anyone has been blocked by anything — you can build one from a Gate-Controller time variable:
+
+1. Give the variable a value (top grid if it is a real gate's Start Time Variable, otherwise the bottom grid, on every participant's row — see the table above)
+2. On any Info element, add text using the countdown tokens:
+   - `[countdown: VarName]` → "3 hours and 45 minutes"
+   - `[countdown-hours: VarName]` → "3" (total whole hours, can exceed 24)
+   - `[countdown-minutes: VarName]` → "45"
+   - `[VarName]` on its own renders the raw date/time itself, not a countdown
+3. `VarName` is the exact variable name — e.g. `[countdown-hours: GC-Start-Cycle-Time]`
+
+The token ticks on its own (re-renders every minute) once the variable has a value. If it never leaves the page as literal bracketed text, the variable simply has no value yet for that participant — go back and check which of the two grids above it needs to be entered into.
+
+---
+
 ## Modifying Gate Connection
 
 ### Change Gate Controller

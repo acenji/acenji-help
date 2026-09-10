@@ -1,22 +1,23 @@
 # Journey Bar
 
-The **Journey Bar** element shows a viewer's progress through a gated, multi-page journey -- a row of stages, each waiting, live (pulsing), or complete, based on which page the viewer is currently on.
+**Journey Bar** shows a viewer's progress through a gated, multi-page journey -- a row of stages, each waiting, live (pulsing), or complete, based on which page the viewer is currently on.
 
-Unlike most elements, its content isn't configured on the element itself. Stages, which pages belong to each stage, and which viewers see which track (for example a "Focus Person" track vs. everyone else) are all set **once for the whole project**, on the **Gate Controller** screen in Variable Center -- not per placement. Placing a Journey Bar tile only controls how it *looks*.
+Unlike everything else in this section, it isn't an element you drag onto a page. Once enabled, it renders automatically -- full width, above every page's own tiles, at the very top -- on **every page of the project**. There's nothing to place and nowhere to reposition it; it's configured once, in one place, for the whole app.
 
-## Setting up the stage map
+## Configuring it
 
 1. Go to **Variable Center → Gate Controller** and select your project.
-2. Scroll to the **JourneyBar Stages** section.
-3. Add one or more **tracks**. The first track is the default, shown to any viewer whose session doesn't match a more specific track's condition (for example, a track that only applies when `is-focus-person == true`).
-4. Within a track, add **stages** in order, giving each a label and the pages it covers. A stage can span several pages -- it stays "live" for the whole span and only turns to a checkmark once the viewer moves past its last page.
-5. Save. Every Journey Bar tile in the project reads this same map.
+2. Scroll to the **JourneyBar** section and turn it **Enabled**.
+3. Under **Appearance**, set the colors, whether stage labels show, whether the live stage pulses, and the screen width below which it collapses to a compact "Stage X of Y" strip.
+4. Add one or more **tracks**. The first track is the default, shown to any viewer whose session doesn't match a more specific track's condition (for example, a track that only applies when `is-focus-person == true`).
+5. Within a track, add **stages** in order, giving each a label and the pages it covers. A stage can span several pages -- it stays "live" for the whole span and only turns to a checkmark once the viewer moves past its last page.
+6. Save.
 
 Progress is derived purely from which page the viewer is currently on -- there's no separate "did they answer everything" tracking. Since **Next** is normally gated on a page's required fields, having moved past a page already implies it was completed.
 
-## Properties
+## Appearance settings
 
-| Property | Type | Default | Description |
+| Setting | Type | Default | Description |
 |----------|------|---------|-------------|
 | Upcoming Stage Color | Color | `#3f6fe0` | Dot color for a stage not yet reached |
 | Live Stage Color | Color | `#2fbd72` | Dot color for the current stage (pulses) |
@@ -35,5 +36,5 @@ Progress is derived purely from which page the viewer is currently on -- there's
 
 ## Related
 
-- [Progress Bar](../progress-bar/) -- a simpler, self-contained value/max bar with no cross-page awareness
-- [Gate Controller](../../../shared-concepts/gate-controller/) -- the lock/unlock mechanism a track's condition mirrors, and where the Journey Bar's stage map is configured
+- [Progress Bar](../progress-bar/) -- a simpler, self-contained, drag-onto-a-page value/max bar with no cross-page awareness
+- [Gate Controller](../../../shared-concepts/gate-controller/) -- the lock/unlock mechanism a track's condition mirrors, and where Journey Bar itself is configured

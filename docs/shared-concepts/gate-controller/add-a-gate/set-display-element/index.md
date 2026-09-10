@@ -193,6 +193,20 @@ If no overlay element is selected:
 - Verify it's on the correct page
 - Save the page in the builder and refresh
 
+### A Gate Used To Show a Countdown, and Now Shows Nothing
+
+This is different from "No Status Showing" above — this is a gate that worked before and stopped, usually after a page or tile was edited or deleted. The gate's Overlay Element setting still stores the *id* of the Info element it was pointed at, not a live link — if that specific element is ever deleted (including as a side effect of deleting the page or tile that contained it), the gate silently has nowhere to render its countdown. The gate itself keeps working correctly (locking/unlocking on schedule); only the status display goes missing.
+
+**How to check:** If you have access to the AI Builder (ACE), ask it to look up the gate — it reports exactly this as a `problems` entry when it finds one. Otherwise, open the gate's Display Element field: if it shows a selection but the page it's supposed to be on no longer has a matching Info element, that's this bug.
+
+**How to fix:**
+1. Add a new Info element to the page you want the countdown to appear on (any page the participant reaches before the gate opens — it does not have to be the gated page itself)
+2. Give it any placeholder text — the gate overlay replaces it with the live status automatically, so the original text is only seen in the rare case the gate's time hasn't been configured yet
+3. In the gate's Display Element setting, select this new element
+4. Save and publish
+
+If the same broken reference is reused by more than one Gate Controller template (common when templates were duplicated from each other), fixing it in one place — pointing every affected gate at the same new element — fixes all of them at once, since Display Element only stores an id, not a copy.
+
 ---
 
 # Questions?
