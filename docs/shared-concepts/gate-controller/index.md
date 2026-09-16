@@ -74,7 +74,7 @@ Configure when the gate opens:
 ### 3. Display Element
 
 Choose where status messages appear:
-- Countdown timers ("Opens in 2d 5h 30m")
+- Countdown timers ("This page opens in 2d 5h 30m")
 - Status indicators ("Open for editing", "Closed")
 - Completion confirmations ("Completed on Jan 15, 2024")
 

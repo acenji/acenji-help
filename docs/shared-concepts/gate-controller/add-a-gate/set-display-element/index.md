@@ -34,11 +34,11 @@ The display element shows different messages based on gate state:
 
 | Status | Message | When Shown |
 |--------|---------|------------|
-| **Opens in...** | "Opens in 2d 5h 30m 15s" | Before gate opens (countdown) |
-| **Open for editing** | "Open for editing" | Gate is currently open |
-| **Blocked** | "Blocked – condition is not met" | Variable or precondition not met |
-| **Closed** | "Closed – missed deadline" | Past end time |
-| **Completed** | "Completed on Jan 15, 2024" | User finished interaction |
+| **Opens in...** | "This page opens in 2d 5h 30m 15s" | Before gate opens (countdown) |
+| **Open for editing** | "This page is open for editing" | Gate is currently open |
+| **Blocked** | "This page is blocked – condition is not met" | Variable or precondition not met |
+| **Closed** | "This page closed – missed deadline" | Past end time |
+| **Completed** | "You completed this page on Jan 15, 2024" | User finished interaction |
 
 ---
 
@@ -47,7 +47,7 @@ The display element shows different messages based on gate state:
 When a Time Lock is active and the gate hasn't opened yet:
 
 ```
-Opens in 2d 5h 30m 15s
+This page opens in 2d 5h 30m 15s
 ```
 
 The countdown updates in real-time, showing:
@@ -71,7 +71,7 @@ Place the Info element at the top of the gated section:
 
 ```
 ┌─────────────────────────┐
-│  Opens in 2d 5h 30m     │  ← Info element (overlay)
+│  This page opens in 2d 5h... │  ← Info element (overlay)
 ├─────────────────────────┤
 │                         │
 │   [Gated Content]       │  ← Hidden/locked
@@ -87,7 +87,7 @@ Place inside the tile that's being gated:
 ┌─────────────────────────┐
 │  Form Title             │
 ├─────────────────────────┤
-│  Opens in 2d 5h 30m     │  ← Info element
+│  This page opens in 2d 5h... │  ← Info element
 ├─────────────────────────┤
 │  Field 1: [locked]      │
 │  Field 2: [locked]      │
@@ -138,11 +138,11 @@ Section 1:
 
 Section 2:
 ├─ Gate: Day 2 Content
-└─ Display: Info Element B → "Opens in 1d 3h 20m"
+└─ Display: Info Element B → "This page opens in 1d 3h 20m"
 
 Section 3:
 ├─ Gate: Day 3 Content
-└─ Display: Info Element C → "Opens in 2d 3h 20m"
+└─ Display: Info Element C → "This page opens in 2d 3h 20m"
 ```
 
 ---
@@ -206,6 +206,8 @@ This is different from "No Status Showing" above — this is a gate that worked 
 4. Save and publish
 
 If the same broken reference is reused by more than one Gate Controller template (common when templates were duplicated from each other), fixing it in one place — pointing every affected gate at the same new element — fixes all of them at once, since Display Element only stores an id, not a copy.
+
+**If you need the countdown on more than one page at once**, Display Element isn't the right tool — it only ever points at a single element, so repointing it to "fix" one page breaks it on whichever page it used to be on. Use the gate-reference token instead: `[countdown: gate:<id> | fmt=hh:mm]` on as many Info elements, on as many pages, as you like — see [Showing a Live Countdown in Your Own Text](../../../variable-center/user-data/connect-to-gate-controller/index.md#showing-a-live-countdown-in-your-own-text).
 
 ---
 
