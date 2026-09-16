@@ -122,9 +122,9 @@ When Time Lock is active, users see status messages:
 
 | Status | When Shown |
 |--------|------------|
-| **Opens in 2d 5h 30m** | Before gate opens (countdown) |
-| **Open for editing** | During the open window |
-| **Closed** | After end time offset passed |
+| **This page opens in 2d 5h 30m** | Before gate opens (countdown) |
+| **This page is open for editing** | During the open window |
+| **This page closed** | After end time offset passed |
 
 The countdown updates in real-time, showing days, hours, minutes, and seconds.
 

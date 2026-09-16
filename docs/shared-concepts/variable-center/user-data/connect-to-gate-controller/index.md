@@ -124,9 +124,27 @@ A value entered in the top grid is automatically copied into every participant's
 
 ## Showing a Live Countdown in Your Own Text
 
-Before building a custom countdown, check whether the **built-in** one already covers what you need: every time-locked gate can show a live "Opens in Xd Xh Xm" status automatically in its own Display Element, with no variable required at all — see [Set Display Element](../../gate-controller/add-a-gate/set-display-element/index.md). This is almost always the simpler option, and it's the first thing to check if a gate used to show a countdown and stopped.
+Before building a custom countdown, check whether the **built-in** one already covers what you need: every time-locked gate can show a live "This page opens in Xd Xh Xm" status automatically in its own Display Element, with no variable required at all — see [Set Display Element](../../gate-controller/add-a-gate/set-display-element/index.md). This is almost always the simpler option, and it's the first thing to check if a gate used to show a countdown and stopped.
 
-If you want a countdown to appear somewhere other than the gate's own overlay — for example, proactively on an earlier page, before anyone has been blocked by anything — you can build one from a Gate-Controller time variable:
+If you want a countdown to appear somewhere **other than** the gate's own overlay — for example, proactively on an earlier page, before anyone has been blocked by anything — you have two options. Use the gate-reference tokens below unless you already have a good reason to use the older variable-based tokens further down.
+
+### Option A — Reference the Gate Directly (recommended, zero setup)
+
+This is the simplest option: no variable to create, no value to enter per session, and it works the moment the gate is configured.
+
+1. Open the gate in **Gate Controller** whose countdown you want to show elsewhere
+2. Copy its **Gate ID** — a read-only field near the top of the gate editor, with a **Copy** button next to it
+3. On any Info element, on any page, add text using:
+   - `[countdown: gate:<id> | fmt=hh:mm]` → "3 hours and 45 minutes"
+   - `[time: gate:<id> | fmt=absolute]` → "Sep 16, 2026, 3:00 PM"
+   - `fmt` is optional — `hh:mm` is the default for `countdown`, `absolute` for `time`
+4. Paste the copied id in place of `<id>` — e.g. `[countdown: gate:294c32c4-97f9-44b9-93d1-2b65e8f7912a | fmt=hh:mm]`
+
+This works from **any** page, not just the gate's own page — the same gate can be referenced from as many pages as you like (e.g. a holding page showing "the next cycle opens in..." while participants wait). Nothing needs to be added to Variable Center, and nothing needs to be re-entered per session — the gate's own schedule is the only thing that matters. If the gate is edited later (retimed, or its target page changed), every page referencing it updates automatically, since they all point at the same gate id.
+
+### Option B — Build One From a Variable (older method, still supported)
+
+Use this only when there's no real gate backing the timing — e.g. a custom milestone that isn't itself gating any content:
 
 1. Give the variable a value (top grid if it is a real gate's Start Time Variable, otherwise the bottom grid, on every participant's row — see the table above)
 2. On any Info element, add text using the countdown tokens:
@@ -137,6 +155,8 @@ If you want a countdown to appear somewhere other than the gate's own overlay �
 3. `VarName` is the exact variable name — e.g. `[countdown-hours: GC-Start-Cycle-Time]`
 
 The token ticks on its own (re-renders every minute) once the variable has a value. If it never leaves the page as literal bracketed text, the variable simply has no value yet for that participant — go back and check which of the two grids above it needs to be entered into.
+
+Unlike Option A, this value has to be entered separately for every session (and, for the bottom grid, every participant) — that per-session step is exactly what Option A skips.
 
 ---
 
