@@ -67,7 +67,7 @@ Every card refers to these. The **"What do these mean?"** link in the Inspector 
 
 > **Note:** the close time is measured from the **session's end date**, not from when the gate opened. If the session has **no end date**, a gate never closes by time, whatever End Time Offset is set.
 
-> **Note:** the times shown in the Inspector's technical details are in **UTC**.
+> **Note:** times in the Inspector are shown in **UTC** followed by **US Eastern time (ET)**, for example *"Sep 20, 10:58 PM UTC / 6:58 PM ET"*. ET follows New York daylight saving automatically, and its date is shown only when it differs from the UTC date.
 
 ---
 
