@@ -426,6 +426,15 @@ export default defineConfig({
                                     { text: 'Set Display Element', link: '/shared-concepts/gate-controller/add-a-gate/set-display-element/' },
                                 ]
                             },
+                            {
+                                text: 'Gate Session Inspector',
+                                link: '/shared-concepts/gate-controller/gate-inspector/',
+                                collapsed: true,
+                                items: [
+                                    { text: 'Inspect a Session', link: '/shared-concepts/gate-controller/gate-inspector/inspect-a-session/' },
+                                    { text: 'Try a Change', link: '/shared-concepts/gate-controller/gate-inspector/try-a-change/' },
+                                ]
+                            },
                         ]
                     },
                     { text: 'Roles & Permissions', link: '/shared-concepts/roles-and-permissions/' },
