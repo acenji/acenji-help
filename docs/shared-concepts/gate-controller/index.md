@@ -172,6 +172,12 @@ Step-by-step guide to creating and configuring gates.
 
 ---
 
+## Troubleshooting a gate
+
+Not sure why a page is open, closed or "not yet"? The **[Gate Session Inspector](gate-inspector/)** shows, in plain language, what every gate in a template is doing for a chosen session and participant — and lets you **[preview a change](gate-inspector/try-a-change/)** before saving it. It is read-only and uses the same checks participants actually experience.
+
+---
+
 # Questions?
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>
