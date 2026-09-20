@@ -56,7 +56,7 @@ Work through the cards from the top:
 
 Click any card to expand it. You will see each condition the gate uses, with a ✓ (passes), ✕ (fails) or … (not yet) and the exact reason, for example *"Depends on **Page 3** — a required field there is still empty for this participant."*
 
-> **Note:** times in these reasons (for example *"Will open Sep 20, 10:58 PM"*) are shown in **UTC**, not in your local time zone.
+> **Note:** times in these reasons are shown in **UTC** followed by **US Eastern time (ET)** — for example *"Will open Sep 20, 10:58 PM UTC / 6:58 PM ET"* — not in your own local time zone.
 
 ### 6. Act on any "Worth a second look" note
 
