@@ -176,6 +176,10 @@ Step-by-step guide to creating and configuring gates.
 
 Not sure why a page is open, closed or "not yet"? The **[Gate Session Inspector](gate-inspector/)** shows, in plain language, what every gate in a template is doing for a chosen session and participant — and lets you **[preview a change](gate-inspector/try-a-change/)** before saving it. It is read-only and uses the same checks participants actually experience.
 
+## What participants actually see
+
+Curious what happens on the participant's end when they hit a locked page, or try to Continue toward one? See **[Participant Experience on a Locked Page](participant-experience/)**.
+
 ---
 
 # Questions?
