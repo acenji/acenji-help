@@ -34,6 +34,16 @@ The countdown staying readable is automatic (as long as the gate's Display Eleme
 
 ---
 
+## Situation 3: Auto-advance when a page you reference just opened
+
+If your own page text already references a **later** page's gate using the gate-reference token — `[countdown: gate:<id>]` or `[time: gate:<id>]`, see [Showing a Live Countdown in Your Own Text](../../variable-center/user-data/connect-to-gate-controller/index.md#showing-a-live-countdown-in-your-own-text) — a participant sitting on that page is automatically taken to the referenced page the moment its gate opens. They don't have to click Continue themselves; it happens on its own, typically within a few seconds of the gate opening.
+
+**This only fires while the participant's browser tab is actually open and they've been active recently** — the same "active session" window that logs someone out after a period of inactivity. If their tab is closed, their laptop is asleep, or they've stepped away long enough to time out, nothing auto-advances for them. That's expected, not a bug: the next time they come back and click **Continue** themselves, they land on the correct page exactly as Situation 1 above describes — auto-advance is a convenience on top of that, never a replacement for it.
+
+**Nothing extra to set up beyond the token itself.** If a page's text already shows a live countdown to a later gate using the token above, that same reference is what drives the auto-advance — there's no separate toggle.
+
+---
+
 # Questions?
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>
