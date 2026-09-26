@@ -56,6 +56,21 @@ If your own page text already references a **later** page's gate using the gate-
 
 ---
 
+## Situation 4: This page has been set to lock after its own deadline (opt-in)
+
+By default, a page whose gate has closed still shows a "❌ This page closed" message but stays fully editable - nothing stops someone from continuing to fill it in after the fact. If an admin has turned on **"Lock this page after its deadline passes?"** for that gate (see [Lock After Deadline](../../variable-center/user-data/connect-to-gate-controller/index.md#lock-after-deadline-visual-opt-in)), that changes once the deadline passes:
+
+- The rest of the page's content (form fields, instructions, etc.) is blurred and not interactive, exactly like Situation 2 above - just triggered by the deadline passing instead of not-yet-open.
+- The closed-status message stays fully readable, and that page's own Back button (if it has one) stays clickable, so the participant can still leave.
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:8px;">
+  <source src="/videos/gate-lock-after-deadline.mp4" type="video/mp4">
+</video>
+
+**This is opt-in and off by default.** Nothing changes for any existing gate unless an admin explicitly turns it on - and it's purely a visual/UX signal, not a security boundary; it does not by itself prevent someone from reaching the page's data through other means.
+
+---
+
 # Questions?
 
 If you have any questions, please don't hesitate to <a href="https://www.acenji.com/contact" target="_blank" rel="noopener">contact us.</a>

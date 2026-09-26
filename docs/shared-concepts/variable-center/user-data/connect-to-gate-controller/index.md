@@ -83,6 +83,16 @@ Requires conditions to be met before access:
 | **Precondition** | What must be completed first |
 | **Check Type** | How to verify the condition |
 
+### Lock After Deadline (visual, opt-in)
+
+Unlike the three lock types above, this doesn't control real access - it's a checkbox ("Lock this page after its deadline passes?") next to Time Lock that controls what a participant *sees* once that same gate's own window has already closed. Off by default, so every existing gate is unaffected until an admin turns it on.
+
+| Setting | Description |
+|---------|-------------|
+| **Lock this page after its deadline passes?** | When checked, once this gate's Time Lock end time passes, the page is blurred and non-interactive for anyone still viewing it. The status message and that page's own Back button (if it has one) stay readable/clickable - see [Participant Experience on a Locked Page](../../../gate-controller/participant-experience/index.md). |
+
+Requires **Time Lock** to be configured on the same gate (this setting reads that gate's own end time) - it has no effect on a gate that only uses Variable Lock or Precondition Lock.
+
 ---
 
 ## How Access Control Works
