@@ -1,6 +1,6 @@
 # Participant Experience on a Locked Page
 
-When a gate is protecting a page, what does the participant actually see and do? This page covers the two situations that come up, and what (if anything) you need to set up for each.
+When a gate is protecting a page, what does the participant actually see and do? This page covers the situations that come up, and what (if anything) you need to set up for each.
 
 ---
 
@@ -15,6 +15,10 @@ or, if the window has already closed:
 > *That page has closed.*
 
 **Nothing to set up.** This works automatically for every page in every template — whichever page the participant happens to be on becomes their "holding page" for as long as the next one is locked. You don't need to designate any particular page (like Page 2) as *the* holding page; it's always wherever they currently are, and it's always a page they can already read, edit, and navigate from normally, because it's a page they've already reached.
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:8px;">
+  <source src="/videos/gate-hold-at-current-page.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -32,6 +36,10 @@ The countdown staying readable is automatic (as long as the gate's Display Eleme
 
 **If you want a specific locked page to offer a way out, add a Button to it with a Card Link action targeting the previous page** — see [Button](/create-web-application/elements/button/) and [Card Link](/create-web-application/elements/card-link/). Once it's there, it's automatically exempted from the blur/lock whenever that page is protected by a gate — no extra gate configuration needed.
 
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:8px;">
+  <source src="/videos/gate-locked-page-back-navigation.mp4" type="video/mp4">
+</video>
+
 ---
 
 ## Situation 3: Auto-advance when a page you reference just opened
@@ -41,6 +49,10 @@ If your own page text already references a **later** page's gate using the gate-
 **This only fires while the participant's browser tab is actually open and they've been active recently** — the same "active session" window that logs someone out after a period of inactivity. If their tab is closed, their laptop is asleep, or they've stepped away long enough to time out, nothing auto-advances for them. That's expected, not a bug: the next time they come back and click **Continue** themselves, they land on the correct page exactly as Situation 1 above describes — auto-advance is a convenience on top of that, never a replacement for it.
 
 **Nothing extra to set up beyond the token itself.** If a page's text already shows a live countdown to a later gate using the token above, that same reference is what drives the auto-advance — there's no separate toggle.
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:8px;">
+  <source src="/videos/gate-auto-advance.mp4" type="video/mp4">
+</video>
 
 ---
 
