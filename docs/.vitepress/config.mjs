@@ -435,6 +435,7 @@ export default defineConfig({
                                     { text: 'Try a Change', link: '/shared-concepts/gate-controller/gate-inspector/try-a-change/' },
                                 ]
                             },
+                            { text: 'Participant Experience on a Locked Page', link: '/shared-concepts/gate-controller/participant-experience/' },
                         ]
                     },
                     { text: 'Roles & Permissions', link: '/shared-concepts/roles-and-permissions/' },
