@@ -10,6 +10,9 @@ The Color Tab will **adapt depending on the element type**. Some elements have m
 
 The Color Tab organizes settings by **component groups**. Each group represents a different part of the element that can be styled independently.
 
+### Background Image
+Info, Tile, Text Input, and Text Area can also have a **picture** behind them: upload it, choose how it fills the box, place it with a grid or by dragging, and show only its shape. See [Background Image](/create-web-application/website-builder/floating-design-panel/element-section/color-tab/background-image/).
+
 ### Common Color Properties
 
 | Property | Description |

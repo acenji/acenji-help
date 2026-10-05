@@ -153,6 +153,11 @@ margin-left: 10px;
 </style>
 <p style="margin-top:30px;"></p>
 
+## Background image
+
+A Info can have a picture behind it: upload it under **Color > Container > Background Image**, then size it, place it, or drag it into position. See [Background Image](/create-web-application/website-builder/floating-design-panel/element-section/color-tab/background-image/).
+
+---
 
 # Was this article helpful?
 
