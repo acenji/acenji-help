@@ -97,7 +97,14 @@ export default defineConfig({
                                                 ]
                                             },
                                             { text: 'Connect Tab', link: '/create-web-application/website-builder/floating-design-panel/element-section/connect-tab/' },
-                                            { text: 'Color Tab', link: '/create-web-application/website-builder/floating-design-panel/element-section/color-tab/' },
+                                            {
+                                                text: 'Color Tab',
+                                                link: '/create-web-application/website-builder/floating-design-panel/element-section/color-tab/',
+                                                collapsed: true,
+                                                items: [
+                                                    { text: 'Background Image', link: '/create-web-application/website-builder/floating-design-panel/element-section/color-tab/background-image/' },
+                                                ]
+                                            },
                                             { text: 'Dimensions Tab', link: '/create-web-application/website-builder/floating-design-panel/element-section/dimensions-tab/' },
                                             { text: 'Position Tab', link: '/create-web-application/website-builder/floating-design-panel/element-section/position-tab/' },
                                             { text: 'Text Tab', link: '/create-web-application/website-builder/floating-design-panel/element-section/text-tab/' },
